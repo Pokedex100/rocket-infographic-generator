@@ -1,101 +1,121 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-body {
-    background-color: #0e1012;
-}
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+
+  body {
+      background-color: #0e1012;
+      font-family: 'Roboto', sans-serif;
+  }
 
 
 
-.bug {
-    background: #92BC2C;
-    box-shadow: 0 0 20px #92BC2C;
-}
+  .bug {
+      background: #92BC2C;
+      box-shadow: 0 0 20px #92BC2C;
+  }
 
-.dark {
-    background: #595761;
-    box-shadow: 0 0 20px #595761;
-}
+  .dark {
+      background: #595761;
+      box-shadow: 0 0 20px #595761;
+  }
 
-.dragon {
-    background: #0C69C8;
-    box-shadow: 0 0 20px #0C69C8;
-}
+  .dragon {
+      background: #0C69C8;
+      box-shadow: 0 0 20px #0C69C8;
+  }
 
-.electric {
-    background: #F2D94E;
-    box-shadow: 0 0 20px #F2D94E;
-}
+  .electric {
+      background: #F2D94E;
+      box-shadow: 0 0 20px #F2D94E;
+  }
 
-.fire {
-    background: #FBA54C;
-    box-shadow: 0 0 20px #FBA54C;
-}
+  .fire {
+      background: #FBA54C;
+      box-shadow: 0 0 20px #FBA54C;
+  }
 
-.fairy {
-    background: #EE90E6;
-    box-shadow: 0 0 20px #EE90E6;
-}
+  .fairy {
+      background: #EE90E6;
+      box-shadow: 0 0 20px #EE90E6;
+  }
 
-.fighting {
-    background: #D3425F;
-    box-shadow: 0 0 20px #D3425F;
-}
+  .fighting {
+      background: #D3425F;
+      box-shadow: 0 0 20px #D3425F;
+  }
 
-.flying {
-    background: #A1BBEC;
-    box-shadow: 0 0 20px #A1BBEC;
-}
+  .flying {
+      background: #A1BBEC;
+      box-shadow: 0 0 20px #A1BBEC;
+  }
 
-.ghost {
-    background: #5F6DBC;
-    box-shadow: 0 0 20px #5F6DBC;
-}
+  .ghost {
+      background: #5F6DBC;
+      box-shadow: 0 0 20px #5F6DBC;
+  }
 
-.grass {
-    background: #5FBD58;
-    box-shadow: 0 0 20px #5FBD58;
-}
+  .grass {
+      background: #5FBD58;
+      box-shadow: 0 0 20px #5FBD58;
+  }
 
-.ground {
-    background: #DA7C4D;
-    box-shadow: 0 0 20px #DA7C4D;
-}
+  .ground {
+      background: #DA7C4D;
+      box-shadow: 0 0 20px #DA7C4D;
+  }
 
-.ice {
-    background: #75D0C1;
-    box-shadow: 0 0 20px #75D0C1;
-}
+  .ice {
+      background: #75D0C1;
+      box-shadow: 0 0 20px #75D0C1;
+  }
 
-.normal {
-    background: #A0A29F;
-    box-shadow: 0 0 20px #A0A29F;
-}
+  .normal {
+      background: #A0A29F;
+      box-shadow: 0 0 20px #A0A29F;
+  }
 
-.poison {
-    background: #B763CF;
-    box-shadow: 0 0 20px #B763CF;
-}
+  .poison {
+      background: #B763CF;
+      box-shadow: 0 0 20px #B763CF;
+  }
 
-.psychic {
-    background: #FA8581;
-    box-shadow: 0 0 20px #FA8581;
-}
+  .psychic {
+      background: #FA8581;
+      box-shadow: 0 0 20px #FA8581;
+  }
 
-.rock {
-    background: #C9BB8A;
-    box-shadow: 0 0 20px #C9BB8A;
-}
+  .rock {
+      background: #C9BB8A;
+      box-shadow: 0 0 20px #C9BB8A;
+  }
 
-.steel {
-    background: #5695A3;
-    box-shadow: 0 0 20px #5695A3;
-}
+  .steel {
+      background: #5695A3;
+      box-shadow: 0 0 20px #5695A3;
+  }
 
-.water {
-    background: #539DDF;
-    box-shadow: 0 0 20px #539DDF;
-}
+  .water {
+      background: #539DDF;
+      box-shadow: 0 0 20px #539DDF;
+  }
+
+  .grunt-container {
+      inline-size: 408px;
+      block-size: 541px;
+      background-color: #00000032;
+      -webkit-backdrop-filter: blur(20px);
+      backdrop-filter: blur(20px);
+      background-image: url(./electric.png);
+      background-size: contain;
+  }
+
+  .grunt-type {
+      inline-size: 408px;
+      block-size: 150px;
+      display: grid;
+      grid-template-columns: auto 200px auto;
+  }
