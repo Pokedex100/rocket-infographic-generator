@@ -19,6 +19,7 @@ async function raidsFetch(base, endpoint, method, message) {
 raidsFetch(BASEURL, "api/characters?hours=24", "GET");
 
 const buildData = (data) => {
+  let i = 0;
   for (let datum of data.reverse()) {
     // CHARACTER
     console.log(datum.character.name);
@@ -29,6 +30,7 @@ const buildData = (data) => {
     for (let team of datum.team) console.log(team.pokemon.name, team.slot);
     // SEPARATION
     console.warn("AAAAAAAAAAA");
-    break;
+    i++;
+    if (i === 2) break;
   }
 };

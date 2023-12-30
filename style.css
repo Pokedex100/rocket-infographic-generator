@@ -11,7 +11,11 @@
       font-family: 'Lato', sans-serif;
   }
 
-
+  .chart-container {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 20px;
+  }
 
   .bug {
       background: #92BC2C;
