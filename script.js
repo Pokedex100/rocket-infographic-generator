@@ -32,14 +32,13 @@ const buildData = (data) => {
     let grunt =
       datum.character.name.split("_")[3]?.toLowerCase() ??
       datum.character.name.split("_")[2]?.toLowerCase();
-
-    typeIcon[i].src = `./icons/${type}.svg`;
-    typeIcon[i].classList.add(type);
     if (type === "grunt") {
       typeIcon[i].src = `./icons/ace.png`;
       typeIcon[i].classList.add("ace");
+    } else {
+      typeIcon[i].src = `./icons/${type}.svg`;
+      typeIcon[i].classList.add(type);
     }
-
     grunts[i].src = `./icons/grunts/${grunt}.png`;
     grunts[i].classList.add(grunt);
     // REWARDED POKEMON
