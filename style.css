@@ -154,7 +154,7 @@
       border-radius: 28px;
   }
 
-  img.shiny::after {
+  .shiny::after {
       content: url(./icons/shiny/shiny.webp);
       position: absolute;
       inline-size: 100px;
