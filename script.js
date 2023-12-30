@@ -19,10 +19,16 @@ async function raidsFetch(base, endpoint, method, message) {
 raidsFetch(BASEURL, "api/characters?hours=24", "GET");
 
 const buildData = (data) => {
+  let chartNodes = document.querySelector(".chart-container").childNodes;
+  let headline = document.querySelector(".headline");
+  let typeIcon = document.querySelectorAll(".grunt-type img.type");
   let i = 0;
   for (let datum of data.reverse()) {
     // CHARACTER
     console.log(datum.character.name);
+    let type = datum.character.name.split("_")[1].toLowerCase();
+    typeIcon[i].src = `./icons/${type}.svg`;
+    typeIcon[i].classList.add(type);
     // REWARDED POKEMON
     for (let reward of datum.rewards)
       console.log(reward.pokemon.name, !!reward.shinies);
