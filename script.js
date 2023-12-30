@@ -24,11 +24,13 @@ const buildData = (data) => {
   let typeIcon = document.querySelectorAll(".grunt-type img.type");
   let grunts = document.querySelectorAll(".grunt");
   let i = 0;
-  for (let datum of data.reverse()) {
+  for (let datum of data) {
     // CHARACTER
     console.log(datum.character.name);
     let type = datum.character.name.split("_")[1].toLowerCase();
-    let grunt = datum.character.name.split("_")[3].toLowerCase();
+    let grunt =
+      datum.character.name.split("_")[3]?.toLowerCase() ??
+      datum.character.name.split("_")[2]?.toLowerCase();
 
     typeIcon[i].src = `./icons/${type}.svg`;
     typeIcon[i].classList.add(type);
