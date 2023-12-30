@@ -11,6 +11,10 @@
       font-family: 'Lato', sans-serif;
   }
 
+  body>img {
+      margin: 40px;
+  }
+
   .chart-container {
       display: grid;
       grid-template-columns: repeat(6, 1fr);
