@@ -122,7 +122,7 @@
 
   .grunt-type {
       inline-size: 408px;
-      block-size: 150px;
+      block-size: 155px;
       display: grid;
       grid-template-columns: auto 200px auto;
       align-items: start;
@@ -164,6 +164,11 @@
 
   .encounterable span {
       position: relative;
+  }
+
+  .male {
+      translate: -70px -3px;
+      scale: 0.98;
   }
 
   .encounterable span:has(.shiny)::after {
