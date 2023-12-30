@@ -28,12 +28,17 @@ const buildData = (data) => {
     // CHARACTER
     console.log(datum.character.name);
     let type = datum.character.name.split("_")[1].toLowerCase();
+
     let grunt =
       datum.character.name.split("_")[3]?.toLowerCase() ??
       datum.character.name.split("_")[2]?.toLowerCase();
 
     typeIcon[i].src = `./icons/${type}.svg`;
     typeIcon[i].classList.add(type);
+    if (type === "grunt") {
+      typeIcon[i].src = `./icons/ace.png`;
+      typeIcon[i].classList.add("ace");
+    }
 
     grunts[i].src = `./icons/grunts/${grunt}.png`;
     grunts[i].classList.add(grunt);

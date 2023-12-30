@@ -26,6 +26,12 @@
       box-shadow: 0 0 20px #92BC2C;
   }
 
+  .ace {
+      background: #000;
+      box-shadow: 0 0 20px #000;
+  }
+
+
   .dark {
       background: #595761;
       box-shadow: 0 0 20px #595761;
