@@ -107,11 +107,9 @@
       inline-size: 408px;
       block-size: 541px;
       border-radius: 28px;
-      background-color: #00000032;
+      background-color: #17171732;
       -webkit-backdrop-filter: blur(20px);
       backdrop-filter: blur(20px);
-      background-image: url(./electric.png);
-      background-size: contain;
   }
 
   .grunt-type {
@@ -138,7 +136,9 @@
   .grunt-type h1 {
       color: #fff;
       font-size: 28px;
-      margin-block-start: 36px;
+      block-size: 150px;
+      display: flex;
+      align-items: center;
       margin-inline-start: 8px;
   }
 
