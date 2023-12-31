@@ -190,3 +190,75 @@
   img[src=""] {
       opacity: 0;
   }
+
+  .grunt-type:has(.ace) {
+      background-color: #726257;
+  }
+
+  .grunt-type:has(.grass) {
+      background-color: #367A31;
+  }
+
+  .grunt-type:has(.fire) {
+      background-color: #D45F30;
+  }
+
+  .grunt-type:has(.water) {
+      background-color: #2271BB;
+  }
+
+  .grunt-type:has(.electric) {
+      background-color: #C5A738;
+  }
+
+  .grunt-type:has(.ground) {
+      background-color: #8B451D;
+  }
+
+  .grunt-type:has(.ice) {
+      background-color: #53BFAF;
+  }
+
+  .grunt-type:has(.rock) {
+      background-color: #918447;
+  }
+
+  .grunt-type:has(.steel) {
+      background-color: #457E89;
+  }
+
+  .grunt-type:has(.fighting) {
+      background-color: #C4383C;
+  }
+
+  .grunt-type:has(.psychic) {
+      background-color: #EF6D7C;
+  }
+
+  .grunt-type:has(.ghost) {
+      background-color: #613F8F;
+  }
+
+  .grunt-type:has(.dark) {
+      background-color: #302F2F;
+  }
+
+  .grunt-type:has(.fairy) {
+      background-color: #D473C6;
+  }
+
+  .grunt-type:has(.poison) {
+      background-color: #91318F;
+  }
+
+  .grunt-type:has(.bug) {
+      background-color: #6DA52B;
+  }
+
+  .grunt-type:has(.flying) {
+      background-color: #6C85B2;
+  }
+
+  .grunt-type:has(.dragon) {
+      background-color: #3033BB;
+  }

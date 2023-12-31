@@ -30,13 +30,15 @@ const cloning = (data) => {
 };
 
 const buildData = (data) => {
-  let chartNodes = document.querySelector(".chart-container").childNodes;
+  // let chartNodes = document.querySelector(".chart-container").children;
+  // console.log(chartNodes);
   let gruntNodes = document.querySelectorAll(".grunt-container");
-  let headline = document.querySelector(".headline");
+  let headline = document.querySelectorAll(".headline");
   let typeIcon = document.querySelectorAll(".grunt-type img.type");
   let grunts = document.querySelectorAll(".grunt");
   let i = 0;
   for (let datum of data) {
+    console.log(datum.character.name);
     // CHARACTER
     let gruntName = datum.character.name.split("_")[2];
     if (gruntName === "ARLO" || gruntName === "CLIFF" || gruntName === "SIERRA")
@@ -116,7 +118,7 @@ const buildData = (data) => {
         }
       }
     // SEPARATION
-    console.warn("AAAAAAAAAAA");
+    // console.warn("AAAAAAAAAAA");
     i++;
   }
 };
