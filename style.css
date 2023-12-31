@@ -186,3 +186,7 @@
       transform-origin: 0 0;
       filter: grayscale(1) contrast(1) brightness(0);
   }
+
+  img[src=""] {
+      opacity: 0;
+  }
