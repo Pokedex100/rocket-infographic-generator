@@ -67,7 +67,7 @@ const buildData = (data) => {
   let typeIcon = document.querySelectorAll(".grunt-type img.type");
   let grunts = document.querySelectorAll(".grunt");
   let i = 0;
-  for (let datum of sortedData.reverse()) {
+  for (let datum of sortedData) {
     // CHARACTER
     // console.log(datum.character.name);
     let gruntName = datum.character.name.split("_")[2];
