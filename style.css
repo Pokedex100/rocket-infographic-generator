@@ -262,3 +262,32 @@
   .grunt-type:has(.dragon) {
       background-color: #3033BB;
   }
+
+  .grunt-type h1:has(span) {
+      block-size: 150px;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: center;
+  }
+
+  .grunt-type h1 p {
+      font-size: 18px;
+  }
+
+  .grunt-type h1:has(ul) {
+      inline-size: 250px;
+  }
+
+  .grunt-type h1 ul {
+      margin-inline-start: 15px;
+      font-size: 18px;
+  }
+
+  .grunt-type h1:has(ul) span {
+      margin-inline-start: -50px
+  }
+
+  .grunt-type h1:has(p) span {
+      margin-inline-start: -5px
+  }
