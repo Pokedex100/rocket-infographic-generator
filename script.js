@@ -29,17 +29,47 @@ const cloning = (data) => {
   }
 };
 
+const typeObj = {
+  grass: "Don't tangle with us.",
+  fire: "Do you know how hot Pokémon fire breath can get!",
+  water: "These waters are treacherous.",
+  electric: "Get ready to shocked",
+  ground: "You'll be defeated into the ground.",
+  ice: "You're gonna be frozen in your tracks.",
+  rock: "Let's rock and roll!",
+  steel: "You're no match for my iron will.",
+  metal: "You're no match for my iron will.",
+  fighting: "This buff physique isn't just for show.",
+  psychic: "Are you scared of psychics that use unseen power.",
+  ghost: "Ke... ke... ke... ke... ke... ke!",
+  dark: "Wherever there is light, there is also shadow.",
+  fairy: "Check out my cute Pokémon",
+  poison: "Coiled and ready to strike.",
+  bug: "Go, my super bug Pokémon.",
+  flying: "Battle against my Flying-type Pokémon.",
+  dragon: "ROAR! ...How'd that sound!",
+  normal: "Normal does not mean weak",
+  grunt: "...",
+  decoy: "...",
+};
+
 const buildData = (data) => {
   // let chartNodes = document.querySelector(".chart-container").children;
-  // console.log(chartNodes);
+  let sortedTypes = [...Object.keys(typeObj)];
+
+  let sortedData = data.sort(
+    (a, b) =>
+      sortedTypes.indexOf(a.character.name.split("_")[1].toLowerCase()) -
+      sortedTypes.indexOf(b.character.name.split("_")[1].toLowerCase())
+  );
   let gruntNodes = document.querySelectorAll(".grunt-container");
   let headline = document.querySelectorAll(".headline");
   let typeIcon = document.querySelectorAll(".grunt-type img.type");
   let grunts = document.querySelectorAll(".grunt");
   let i = 0;
-  for (let datum of data) {
-    console.log(datum.character.name);
+  for (let datum of sortedData.reverse()) {
     // CHARACTER
+    // console.log(datum.character.name);
     let gruntName = datum.character.name.split("_")[2];
     if (gruntName === "ARLO" || gruntName === "CLIFF" || gruntName === "SIERRA")
       continue;
@@ -53,21 +83,25 @@ const buildData = (data) => {
       case "grunt": {
         typeIcon[i].src = `./icons/ace.png`;
         typeIcon[i].classList.add("ace");
+        additionalContext("ace", grunt, headline[i]);
         break;
       }
       case "decoy": {
         typeIcon[i].src = `./icons/ace.png`;
         typeIcon[i].classList.add("ace");
+        additionalContext("decoy", grunt, headline[i]);
         break;
       }
       case "metal": {
         typeIcon[i].src = `./icons/steel.svg`;
         typeIcon[i].classList.add("steel");
+        headline[i].textContent = typeObj.steel;
         break;
       }
       default: {
         typeIcon[i].src = `./icons/${type}.svg`;
         typeIcon[i].classList.add(type);
+        headline[i].textContent = typeObj[type];
       }
     }
 
@@ -120,5 +154,38 @@ const buildData = (data) => {
     // SEPARATION
     // console.warn("AAAAAAAAAAA");
     i++;
+  }
+};
+
+const additionalContext = (type, gender, headline) => {
+  let heading =
+    (type === "ace" ? gender.toUpperCase() : type.toUpperCase()) + " GRUNT";
+  let span = document.createElement("span");
+  span.textContent = heading;
+  headline.appendChild(span);
+
+  let aceLabelData = [
+    "Don't bother--I've already won.",
+    "Get ready to be defeated!",
+    "Winning is for winners.",
+  ];
+  let decoyLabelData = ["It teels good to see you disappointed."];
+  switch (type) {
+    case "ace": {
+      let ul = document.createElement("ul");
+      for (label of aceLabelData) {
+        let li = document.createElement("li");
+        li.textContent = label;
+        ul.appendChild(li);
+      }
+      headline.appendChild(ul);
+      break;
+    }
+    case "decoy": {
+      let p = document.createElement("p");
+      p.textContent = decoyLabelData[0];
+      headline.appendChild(p);
+      break;
+    }
   }
 };

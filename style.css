@@ -130,7 +130,7 @@
       inline-size: 408px;
       block-size: 155px;
       display: grid;
-      grid-template-columns: auto 200px auto;
+      grid-template-columns: auto 210px auto;
       align-items: start;
       padding-inline: 10px;
       overflow: hidden;
