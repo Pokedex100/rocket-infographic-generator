@@ -291,3 +291,7 @@
   .grunt-type h1:has(p) span {
       margin-inline-start: -5px
   }
+
+  .sorting {
+      opacity: 0.4;
+  }

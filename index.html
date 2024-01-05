@@ -6,15 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokedex 100 | Rocket</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>
 </head>
 
 <body>
     <img src="./pokedex.png" alt="" height="50px">
-    <section class="screenshot chart-container">
-
-
-    </section>
-
+    <section class="screenshot chart-container"></section>
 
     <template>
         <article class="grunt-container">
@@ -27,7 +24,7 @@
                 <img src="./icons/grunts/female.png" class="grunt" height="240px" alt="grunt">
             </div>
             <div class="grunt-encounters">
-                <div class="stage-1 encounterable">
+                <div class="stage-1 stage encounterable">
                     <span>
                         <img class="pokemon" src="" alt="pokemon" width="120px" height="120px">
                     </span>
@@ -38,7 +35,7 @@
                         <img class="pokemon" src="" alt="pokemon" width="120px" height="120px">
                     </span>
                 </div>
-                <div class="stage-2 encounterable">
+                <div class="stage-2 stage encounterable">
                     <span>
                         <img class="pokemon" src="" alt="pokemon" width="120px" height="120px">
                     </span>
@@ -49,7 +46,7 @@
                         <img class="pokemon" src="" alt="pokemon" width="120px" height="120px">
                     </span>
                 </div>
-                <div class="stage-3 encounterable">
+                <div class="stage-3 stage encounterable">
                     <span>
                         <img class="pokemon" src="" alt="pokemon" width="120px" height="120px">
                     </span>
@@ -63,7 +60,6 @@
             </div>
         </article>
     </template>
-
 
     <script src="./script.js"></script>
 </body>

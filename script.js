@@ -212,4 +212,15 @@ const additionalContext = (type, gender, headline) => {
       break;
     }
   }
+  kanban();
+};
+const kanban = () => {
+  let selectors = document.querySelectorAll(".stage");
+  selectors.forEach((selector) => {
+    Sortable.create(selector, {
+      animation: 150,
+      ghostClass: "sorting",
+      easing: "cubic-bezier(1, 0, 0, 1)",
+    });
+  });
 };
