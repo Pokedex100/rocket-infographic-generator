@@ -121,9 +121,17 @@ const buildData = (data) => {
     for (let team of datum.team)
       switch (team.slot) {
         case 0: {
+          let pokemonName =
+            team.form.name !== "FORM_UNSET"
+              ? team.form.name
+                  .replace(/_ALOLAN?/, "-alolan")
+                  .replace(/_GALARI?A?N?/, "-galarian")
+                  .replace(/_HISUIA?N?/, "-hisuian")
+                  .replace(/_PALDEAN?/, "-paldean")
+              : team.pokemon.name;
           stage1[
             a
-          ].src = `https://img.pokemondb.net/sprites/home/normal/${team.pokemon.name.toLowerCase()}.png`;
+          ].src = `https://img.pokemondb.net/sprites/home/normal/${pokemonName.toLowerCase()}.png`;
           shinyMap.get(team.pokemon.name) && stage1[a].classList.add("shiny");
           !shinyMap.has(team.pokemon.name) &&
             stage1[a]?.closest("div").classList.remove("encounterable");
@@ -131,9 +139,17 @@ const buildData = (data) => {
           break;
         }
         case 1: {
+          let pokemonName =
+            team.form.name !== "FORM_UNSET"
+              ? team.form.name
+                  .replace(/_ALOLAN?/, "-alolan")
+                  .replace(/_GALARI?A?N?/, "-galarian")
+                  .replace(/_HISUIA?N?/, "-hisuian")
+                  .replace(/_PALDEAN?/, "-paldean")
+              : team.pokemon.name;
           stage2[
             b
-          ].src = `https://img.pokemondb.net/sprites/home/normal/${team.pokemon.name.toLowerCase()}.png`;
+          ].src = `https://img.pokemondb.net/sprites/home/normal/${pokemonName.toLowerCase()}.png`;
           shinyMap.get(team.pokemon.name) && stage2[b].classList.add("shiny");
           !shinyMap.has(team.pokemon.name) &&
             stage2[b]?.closest("div").classList.remove("encounterable");
@@ -141,9 +157,17 @@ const buildData = (data) => {
           break;
         }
         case 2: {
+          let pokemonName =
+            team.form.name !== "FORM_UNSET"
+              ? team.form.name
+                  .replace(/_ALOLAN?/, "-alolan")
+                  .replace(/_GALARI?A?N?/, "-galarian")
+                  .replace(/_HISUIA?N?/, "-hisuian")
+                  .replace(/_PALDEAN?/, "-paldean")
+              : team.pokemon.name;
           stage3[
             c
-          ].src = `https://img.pokemondb.net/sprites/home/normal/${team.pokemon.name.toLowerCase()}.png`;
+          ].src = `https://img.pokemondb.net/sprites/home/normal/${pokemonName.toLowerCase()}.png`;
           shinyMap.get(team.pokemon.name) && stage3[c].classList.add("shiny");
           !shinyMap.has(team.pokemon.name) &&
             stage3[c]?.closest("div").classList.remove("encounterable");
