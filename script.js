@@ -131,7 +131,9 @@ const buildData = (data) => {
               : team.pokemon.name;
           stage1[
             a
-          ].src = `https://img.pokemondb.net/sprites/home/normal/${pokemonName.toLowerCase()}.png`;
+          ].src = `https://img.pokemondb.net/sprites/home/normal/${pokemonName
+            .replace(/_NORMAL/i, "")
+            .toLowerCase()}.png`;
           shinyMap.get(team.pokemon.name) && stage1[a].classList.add("shiny");
           !shinyMap.has(team.pokemon.name) &&
             stage1[a]?.closest("div").classList.remove("encounterable");
@@ -149,7 +151,9 @@ const buildData = (data) => {
               : team.pokemon.name;
           stage2[
             b
-          ].src = `https://img.pokemondb.net/sprites/home/normal/${pokemonName.toLowerCase()}.png`;
+          ].src = `https://img.pokemondb.net/sprites/home/normal/${pokemonName
+            .replace(/_NORMAL/i, "")
+            .toLowerCase()}.png`;
           shinyMap.get(team.pokemon.name) && stage2[b].classList.add("shiny");
           !shinyMap.has(team.pokemon.name) &&
             stage2[b]?.closest("div").classList.remove("encounterable");
@@ -167,7 +171,9 @@ const buildData = (data) => {
               : team.pokemon.name;
           stage3[
             c
-          ].src = `https://img.pokemondb.net/sprites/home/normal/${pokemonName.toLowerCase()}.png`;
+          ].src = `https://img.pokemondb.net/sprites/home/normal/${pokemonName
+            .replace(/_NORMAL/i, "")
+            .toLowerCase()}.png`;
           shinyMap.get(team.pokemon.name) && stage3[c].classList.add("shiny");
           !shinyMap.has(team.pokemon.name) &&
             stage3[c]?.closest("div").classList.remove("encounterable");
