@@ -123,12 +123,13 @@ const buildData = (data) => {
         case 0: {
           let pokemonName =
             team.form.name !== "FORM_UNSET" &&
-            !team.form.name.includes(team.pokemon.name)
+            team.form.name !== team.pokemon.name + "_NORMAL"
               ? team.form.name
                   .replace(/_ALOLAN?/, "-alolan")
                   .replace(/_GALARI?A?N?/, "-galarian")
                   .replace(/_HISUIA?N?/, "-hisuian")
                   .replace(/_PALDEAN?/, "-paldean")
+                  .replace(/_STANDARD/, "")
               : team.pokemon.name;
           stage1[
             a
@@ -144,12 +145,13 @@ const buildData = (data) => {
         case 1: {
           let pokemonName =
             team.form.name !== "FORM_UNSET" &&
-            !team.form.name.includes(team.pokemon.name)
+            team.form.name !== team.pokemon.name + "_NORMAL"
               ? team.form.name
                   .replace(/_ALOLAN?/, "-alolan")
                   .replace(/_GALARI?A?N?/, "-galarian")
                   .replace(/_HISUIA?N?/, "-hisuian")
                   .replace(/_PALDEAN?/, "-paldean")
+                  .replace(/_STANDARD/, "")
               : team.pokemon.name;
           stage2[
             b
@@ -165,12 +167,13 @@ const buildData = (data) => {
         case 2: {
           let pokemonName =
             team.form.name !== "FORM_UNSET" &&
-            !team.form.name.includes(team.pokemon.name)
+            team.form.name !== team.pokemon.name + "_NORMAL"
               ? team.form.name
                   .replace(/_ALOLAN?/, "-alolan")
                   .replace(/_GALARI?A?N?/, "-galarian")
                   .replace(/_HISUIA?N?/, "-hisuian")
                   .replace(/_PALDEAN?/, "-paldean")
+                  .replace(/_STANDARD/, "")
               : team.pokemon.name;
           stage3[
             c
