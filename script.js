@@ -111,6 +111,7 @@ const buildData = (data) => {
     let shinyMap = new Map();
     for (let reward of datum.rewards)
       shinyMap.set(reward.pokemon.name, !!reward.shinies);
+
     // TEAM OF POKEMONS TO FIGHT WITH
     let stage1 = gruntNodes[i].querySelectorAll(".stage-1 span img");
     let stage2 = gruntNodes[i].querySelectorAll(".stage-2 span img");
@@ -205,7 +206,7 @@ const additionalContext = (type, gender, headline) => {
     "Get ready to be defeated!",
     "Winning is for winners.",
   ];
-  let decoyLabelData = ["It teels good to see you disappointed."];
+  let decoyLabelData = ["It feels good to see you disappointed."];
   switch (type) {
     case "ace": {
       let ul = document.createElement("ul");
