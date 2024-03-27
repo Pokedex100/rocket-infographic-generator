@@ -122,7 +122,8 @@ const buildData = (data) => {
       switch (team.slot) {
         case 0: {
           let pokemonName =
-            team.form.name !== "FORM_UNSET"
+            team.form.name !== "FORM_UNSET" &&
+            !team.form.name.includes(team.pokemon.name)
               ? team.form.name
                   .replace(/_ALOLAN?/, "-alolan")
                   .replace(/_GALARI?A?N?/, "-galarian")
@@ -142,7 +143,8 @@ const buildData = (data) => {
         }
         case 1: {
           let pokemonName =
-            team.form.name !== "FORM_UNSET"
+            team.form.name !== "FORM_UNSET" &&
+            !team.form.name.includes(team.pokemon.name)
               ? team.form.name
                   .replace(/_ALOLAN?/, "-alolan")
                   .replace(/_GALARI?A?N?/, "-galarian")
@@ -162,7 +164,8 @@ const buildData = (data) => {
         }
         case 2: {
           let pokemonName =
-            team.form.name !== "FORM_UNSET"
+            team.form.name !== "FORM_UNSET" &&
+            !team.form.name.includes(team.pokemon.name)
               ? team.form.name
                   .replace(/_ALOLAN?/, "-alolan")
                   .replace(/_GALARI?A?N?/, "-galarian")
