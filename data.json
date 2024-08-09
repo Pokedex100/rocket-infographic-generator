@@ -2,17 +2,14 @@
     "characters": [
         {
             "character": {
-                "value": 23,
                 "name": "CHARACTER_GRASS_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 387,
                         "name": "TURTWIG"
                     },
                     "form": {
-                        "value": 688,
                         "name": "TURTWIG_NORMAL"
                     },
                     "total": 32762,
@@ -20,11 +17,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 459,
                         "name": "SNOVER"
                     },
                     "form": {
-                        "value": 932,
                         "name": "SNOVER_NORMAL"
                     },
                     "total": 32466,
@@ -34,11 +29,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 387,
                         "name": "TURTWIG"
                     },
                     "form": {
-                        "value": 688,
                         "name": "TURTWIG_NORMAL"
                     },
                     "slot": 0,
@@ -46,11 +39,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 459,
                         "name": "SNOVER"
                     },
                     "form": {
-                        "value": 932,
                         "name": "SNOVER_NORMAL"
                     },
                     "slot": 0,
@@ -58,11 +49,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 388,
                         "name": "GROTLE"
                     },
                     "form": {
-                        "value": 691,
                         "name": "GROTLE_NORMAL"
                     },
                     "slot": 1,
@@ -70,11 +59,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 598,
                         "name": "FERROTHORN"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -82,11 +69,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 154,
                         "name": "MEGANIUM"
                     },
                     "form": {
-                        "value": 1124,
                         "name": "MEGANIUM_NORMAL"
                     },
                     "slot": 2,
@@ -94,11 +79,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 332,
                         "name": "CACTURNE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -106,11 +89,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 389,
                         "name": "TORTERRA"
                     },
                     "form": {
-                        "value": 694,
                         "name": "TORTERRA_NORMAL"
                     },
                     "slot": 2,
@@ -120,17 +101,14 @@
         },
         {
             "character": {
-                "value": 18,
                 "name": "CHARACTER_FIRE_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 390,
                         "name": "CHIMCHAR"
                     },
                     "form": {
-                        "value": 818,
                         "name": "CHIMCHAR_NORMAL"
                     },
                     "total": 36448,
@@ -138,11 +116,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 554,
                         "name": "DARUMAKA"
                     },
                     "form": {
-                        "value": 2063,
                         "name": "DARUMAKA_NORMAL"
                     },
                     "total": 38084,
@@ -152,11 +128,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 390,
                         "name": "CHIMCHAR"
                     },
                     "form": {
-                        "value": 818,
                         "name": "CHIMCHAR_NORMAL"
                     },
                     "slot": 0,
@@ -164,11 +138,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 554,
                         "name": "DARUMAKA"
                     },
                     "form": {
-                        "value": 2063,
                         "name": "DARUMAKA_NORMAL"
                     },
                     "slot": 0,
@@ -176,11 +148,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 229,
                         "name": "HOUNDOOM"
                     },
                     "form": {
-                        "value": 232,
                         "name": "HOUNDOOM_NORMAL"
                     },
                     "slot": 1,
@@ -188,11 +158,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 391,
                         "name": "MONFERNO"
                     },
                     "form": {
-                        "value": 821,
                         "name": "MONFERNO_NORMAL"
                     },
                     "slot": 1,
@@ -200,11 +168,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 229,
                         "name": "HOUNDOOM"
                     },
                     "form": {
-                        "value": 232,
                         "name": "HOUNDOOM_NORMAL"
                     },
                     "slot": 2,
@@ -212,11 +178,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 392,
                         "name": "INFERNAPE"
                     },
                     "form": {
-                        "value": 824,
                         "name": "INFERNAPE_NORMAL"
                     },
                     "slot": 2,
@@ -224,11 +188,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 555,
                         "name": "DARMANITAN"
                     },
                     "form": {
-                        "value": 138,
                         "name": "DARMANITAN_STANDARD"
                     },
                     "slot": 2,
@@ -238,17 +200,14 @@
         },
         {
             "character": {
-                "value": 38,
                 "name": "CHARACTER_WATER_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 158,
                         "name": "TOTODILE"
                     },
                     "form": {
-                        "value": 1136,
                         "name": "TOTODILE_NORMAL"
                     },
                     "total": 33052,
@@ -256,11 +215,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 393,
                         "name": "PIPLUP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 33237,
@@ -270,11 +227,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 158,
                         "name": "TOTODILE"
                     },
                     "form": {
-                        "value": 1136,
                         "name": "TOTODILE_NORMAL"
                     },
                     "slot": 0,
@@ -282,11 +237,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 393,
                         "name": "PIPLUP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -294,11 +247,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 342,
                         "name": "CRAWDAUNT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -306,11 +257,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 394,
                         "name": "PRINPLUP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -318,11 +267,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 321,
                         "name": "WAILORD"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -330,11 +277,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 340,
                         "name": "WHISCASH"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -342,11 +287,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 395,
                         "name": "EMPOLEON"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -356,17 +299,14 @@
         },
         {
             "character": {
-                "value": 39,
                 "name": "CHARACTER_WATER_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 129,
                         "name": "MAGIKARP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 7166,
@@ -376,11 +316,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 129,
                         "name": "MAGIKARP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -388,11 +326,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 129,
                         "name": "MAGIKARP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -400,11 +336,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 129,
                         "name": "MAGIKARP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -412,11 +346,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 130,
                         "name": "GYARADOS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -426,17 +358,14 @@
         },
         {
             "character": {
-                "value": 49,
                 "name": "CHARACTER_ELECTRIC_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 179,
                         "name": "MAREEP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 23339,
@@ -444,11 +373,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 522,
                         "name": "BLITZLE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 11950,
@@ -456,11 +383,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 595,
                         "name": "JOLTIK"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 24075,
@@ -470,11 +395,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 179,
                         "name": "MAREEP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -482,11 +405,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 522,
                         "name": "BLITZLE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -494,11 +415,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 595,
                         "name": "JOLTIK"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -506,11 +425,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 74,
                         "name": "GEODUDE"
                     },
                     "form": {
-                        "value": 68,
                         "name": "GEODUDE_ALOLA"
                     },
                     "slot": 1,
@@ -518,11 +435,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 100,
                         "name": "VOLTORB"
                     },
                     "form": {
-                        "value": 1047,
                         "name": "VOLTORB_NORMAL"
                     },
                     "slot": 1,
@@ -530,11 +445,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 125,
                         "name": "ELECTABUZZ"
                     },
                     "form": {
-                        "value": 640,
                         "name": "ELECTABUZZ_NORMAL"
                     },
                     "slot": 1,
@@ -542,11 +455,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 181,
                         "name": "AMPHAROS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -554,11 +465,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 405,
                         "name": "LUXRAY"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -566,11 +475,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 596,
                         "name": "GALVANTULA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -580,17 +487,14 @@
         },
         {
             "character": {
-                "value": 25,
                 "name": "CHARACTER_GROUND_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 50,
                         "name": "DIGLETT"
                     },
                     "form": {
-                        "value": 60,
                         "name": "DIGLETT_ALOLA"
                     },
                     "total": 18369,
@@ -598,11 +502,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 111,
                         "name": "RHYHORN"
                     },
                     "form": {
-                        "value": 846,
                         "name": "RHYHORN_NORMAL"
                     },
                     "total": 12023,
@@ -610,11 +512,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 194,
                         "name": "WOOPER"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 24172,
@@ -622,11 +522,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 529,
                         "name": "DRILBUR"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 18184,
@@ -636,11 +534,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 50,
                         "name": "DIGLETT"
                     },
                     "form": {
-                        "value": 60,
                         "name": "DIGLETT_ALOLA"
                     },
                     "slot": 0,
@@ -648,11 +544,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 194,
                         "name": "WOOPER"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -660,11 +554,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 529,
                         "name": "DRILBUR"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -672,11 +564,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 111,
                         "name": "RHYHORN"
                     },
                     "form": {
-                        "value": 846,
                         "name": "RHYHORN_NORMAL"
                     },
                     "slot": 1,
@@ -684,11 +574,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 195,
                         "name": "QUAGSIRE"
                     },
                     "form": {
-                        "value": 1229,
                         "name": "QUAGSIRE_NORMAL"
                     },
                     "slot": 2,
@@ -696,11 +584,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 340,
                         "name": "WHISCASH"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -708,11 +594,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 389,
                         "name": "TORTERRA"
                     },
                     "form": {
-                        "value": 694,
                         "name": "TORTERRA_NORMAL"
                     },
                     "slot": 2,
@@ -722,17 +606,14 @@
         },
         {
             "character": {
-                "value": 26,
                 "name": "CHARACTER_ICE_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 220,
                         "name": "SWINUB"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 35166,
@@ -740,11 +621,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 361,
                         "name": "SNORUNT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 23469,
@@ -754,11 +633,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 220,
                         "name": "SWINUB"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -766,11 +643,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 361,
                         "name": "SNORUNT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -778,11 +653,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 38,
                         "name": "NINETALES"
                     },
                     "form": {
-                        "value": 58,
                         "name": "NINETALES_ALOLA"
                     },
                     "slot": 1,
@@ -790,11 +663,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 362,
                         "name": "GLALIE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -802,11 +673,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 478,
                         "name": "FROSLASS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -814,11 +683,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 362,
                         "name": "GLALIE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -826,11 +693,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 460,
                         "name": "ABOMASNOW"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -838,11 +703,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 478,
                         "name": "FROSLASS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -852,17 +715,14 @@
         },
         {
             "character": {
-                "value": 37,
                 "name": "CHARACTER_ROCK_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 95,
                         "name": "ONIX"
                     },
                     "form": {
-                        "value": 902,
                         "name": "ONIX_NORMAL"
                     },
                     "total": 17190,
@@ -870,11 +730,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 408,
                         "name": "CRANIDOS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 20284,
@@ -882,11 +740,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 410,
                         "name": "SHIELDON"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 19930,
@@ -896,11 +752,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 95,
                         "name": "ONIX"
                     },
                     "form": {
-                        "value": 902,
                         "name": "ONIX_NORMAL"
                     },
                     "slot": 0,
@@ -908,11 +762,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 408,
                         "name": "CRANIDOS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -920,11 +772,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 410,
                         "name": "SHIELDON"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -932,11 +782,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 75,
                         "name": "GRAVELER"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -944,11 +792,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 345,
                         "name": "LILEEP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -956,11 +802,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 347,
                         "name": "ANORITH"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -968,11 +812,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 76,
                         "name": "GOLEM"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -980,11 +822,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 409,
                         "name": "RAMPARDOS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -992,11 +832,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 411,
                         "name": "BASTIODON"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -1006,17 +844,14 @@
         },
         {
             "character": {
-                "value": 29,
                 "name": "CHARACTER_METAL_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 27,
                         "name": "SANDSHREW"
                     },
                     "form": {
-                        "value": 52,
                         "name": "SANDSHREW_ALOLA"
                     },
                     "total": 13333,
@@ -1024,11 +859,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 227,
                         "name": "SKARMORY"
                     },
                     "form": {
-                        "value": 1295,
                         "name": "SKARMORY_NORMAL"
                     },
                     "total": 18168,
@@ -1036,11 +869,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 597,
                         "name": "FERROSEED"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 13241,
@@ -1050,11 +881,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 27,
                         "name": "SANDSHREW"
                     },
                     "form": {
-                        "value": 52,
                         "name": "SANDSHREW_ALOLA"
                     },
                     "slot": 0,
@@ -1062,11 +891,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 227,
                         "name": "SKARMORY"
                     },
                     "form": {
-                        "value": 1295,
                         "name": "SKARMORY_NORMAL"
                     },
                     "slot": 0,
@@ -1074,11 +901,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 597,
                         "name": "FERROSEED"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -1086,11 +911,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 227,
                         "name": "SKARMORY"
                     },
                     "form": {
-                        "value": 1295,
                         "name": "SKARMORY_NORMAL"
                     },
                     "slot": 1,
@@ -1098,11 +921,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 305,
                         "name": "LAIRON"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1110,11 +931,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 375,
                         "name": "METANG"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1122,11 +941,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 28,
                         "name": "SANDSLASH"
                     },
                     "form": {
-                        "value": 54,
                         "name": "SANDSLASH_ALOLA"
                     },
                     "slot": 2,
@@ -1134,11 +951,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 212,
                         "name": "SCIZOR"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -1146,11 +961,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 395,
                         "name": "EMPOLEON"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -1160,17 +973,14 @@
         },
         {
             "character": {
-                "value": 16,
                 "name": "CHARACTER_FIGHTING_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 66,
                         "name": "MACHOP"
                     },
                     "form": {
-                        "value": 809,
                         "name": "MACHOP_NORMAL"
                     },
                     "total": 21828,
@@ -1178,11 +988,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 106,
                         "name": "HITMONLEE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 3353,
@@ -1190,11 +998,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 107,
                         "name": "HITMONCHAN"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 3300,
@@ -1202,11 +1008,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 215,
                         "name": "SNEASEL"
                     },
                     "form": {
-                        "value": 2794,
                         "name": "SNEASEL_HISUIAN"
                     },
                     "total": 11139,
@@ -1214,11 +1018,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 237,
                         "name": "HITMONTOP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 4332,
@@ -1226,11 +1028,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 296,
                         "name": "MAKUHITA"
                     },
                     "form": {
-                        "value": 1451,
                         "name": "MAKUHITA_NORMAL"
                     },
                     "total": 22039,
@@ -1240,11 +1040,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 66,
                         "name": "MACHOP"
                     },
                     "form": {
-                        "value": 809,
                         "name": "MACHOP_NORMAL"
                     },
                     "slot": 0,
@@ -1252,11 +1050,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 215,
                         "name": "SNEASEL"
                     },
                     "form": {
-                        "value": 2794,
                         "name": "SNEASEL_HISUIAN"
                     },
                     "slot": 0,
@@ -1264,11 +1060,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 296,
                         "name": "MAKUHITA"
                     },
                     "form": {
-                        "value": 1451,
                         "name": "MAKUHITA_NORMAL"
                     },
                     "slot": 0,
@@ -1276,11 +1070,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 106,
                         "name": "HITMONLEE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1288,11 +1080,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 107,
                         "name": "HITMONCHAN"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1300,11 +1090,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 237,
                         "name": "HITMONTOP"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1312,11 +1100,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 68,
                         "name": "MACHAMP"
                     },
                     "form": {
-                        "value": 815,
                         "name": "MACHAMP_NORMAL"
                     },
                     "slot": 2,
@@ -1324,11 +1110,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 392,
                         "name": "INFERNAPE"
                     },
                     "form": {
-                        "value": 824,
                         "name": "INFERNAPE_NORMAL"
                     },
                     "slot": 2,
@@ -1336,11 +1120,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 454,
                         "name": "TOXICROAK"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -1350,17 +1132,14 @@
         },
         {
             "character": {
-                "value": 35,
                 "name": "CHARACTER_PSYCHIC_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 574,
                         "name": "GOTHITA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 37235,
@@ -1368,11 +1147,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 577,
                         "name": "SOLOSIS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 36593,
@@ -1382,11 +1159,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 574,
                         "name": "GOTHITA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -1394,11 +1169,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 577,
                         "name": "SOLOSIS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -1406,11 +1179,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 202,
                         "name": "WOBBUFFET"
                     },
                     "form": {
-                        "value": 602,
                         "name": "WOBBUFFET_NORMAL"
                     },
                     "slot": 1,
@@ -1418,11 +1189,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 280,
                         "name": "RALTS"
                     },
                     "form": {
-                        "value": 292,
                         "name": "RALTS_NORMAL"
                     },
                     "slot": 1,
@@ -1430,11 +1199,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 575,
                         "name": "GOTHORITA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1442,11 +1209,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 376,
                         "name": "METAGROSS"
                     },
                     "form": {
-                        "value": 770,
                         "name": "METAGROSS_NORMAL"
                     },
                     "slot": 2,
@@ -1454,11 +1219,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 475,
                         "name": "GALLADE"
                     },
                     "form": {
-                        "value": 301,
                         "name": "GALLADE_NORMAL"
                     },
                     "slot": 2,
@@ -1466,11 +1229,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 579,
                         "name": "REUNICLUS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -1480,17 +1241,14 @@
         },
         {
             "character": {
-                "value": 48,
                 "name": "CHARACTER_GHOST_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 200,
                         "name": "MISDREAVUS"
                     },
                     "form": {
-                        "value": 719,
                         "name": "MISDREAVUS_NORMAL"
                     },
                     "total": 15043,
@@ -1498,11 +1256,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 354,
                         "name": "BANETTE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 4107,
@@ -1510,11 +1266,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 356,
                         "name": "DUSCLOPS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 4447,
@@ -1522,11 +1276,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 425,
                         "name": "DRIFLOON"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 20181,
@@ -1534,11 +1286,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 622,
                         "name": "GOLETT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 16077,
@@ -1548,11 +1298,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 200,
                         "name": "MISDREAVUS"
                     },
                     "form": {
-                        "value": 719,
                         "name": "MISDREAVUS_NORMAL"
                     },
                     "slot": 0,
@@ -1560,11 +1308,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 425,
                         "name": "DRIFLOON"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -1572,11 +1318,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 622,
                         "name": "GOLETT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -1584,11 +1328,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 354,
                         "name": "BANETTE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1596,11 +1338,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 356,
                         "name": "DUSCLOPS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1608,11 +1348,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 622,
                         "name": "GOLETT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1620,11 +1358,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 94,
                         "name": "GENGAR"
                     },
                     "form": {
-                        "value": 1044,
                         "name": "GENGAR_NORMAL"
                     },
                     "slot": 2,
@@ -1632,11 +1368,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 105,
                         "name": "MAROWAK"
                     },
                     "form": {
-                        "value": 80,
                         "name": "MAROWAK_ALOLA"
                     },
                     "slot": 2,
@@ -1644,11 +1378,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 478,
                         "name": "FROSLASS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -1658,17 +1390,14 @@
         },
         {
             "character": {
-                "value": 10,
                 "name": "CHARACTER_DARK_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 19,
                         "name": "RATTATA"
                     },
                     "form": {
-                        "value": 46,
                         "name": "RATTATA_ALOLA"
                     },
                     "total": 23330,
@@ -1676,11 +1405,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 228,
                         "name": "HOUNDOUR"
                     },
                     "form": {
-                        "value": 229,
                         "name": "HOUNDOUR_NORMAL"
                     },
                     "total": 17712,
@@ -1688,11 +1415,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 434,
                         "name": "STUNKY"
                     },
                     "form": {
-                        "value": 791,
                         "name": "STUNKY_NORMAL"
                     },
                     "total": 17853,
@@ -1702,11 +1427,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 19,
                         "name": "RATTATA"
                     },
                     "form": {
-                        "value": 46,
                         "name": "RATTATA_ALOLA"
                     },
                     "slot": 0,
@@ -1714,11 +1437,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 228,
                         "name": "HOUNDOUR"
                     },
                     "form": {
-                        "value": 229,
                         "name": "HOUNDOUR_NORMAL"
                     },
                     "slot": 0,
@@ -1726,11 +1447,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 434,
                         "name": "STUNKY"
                     },
                     "form": {
-                        "value": 791,
                         "name": "STUNKY_NORMAL"
                     },
                     "slot": 0,
@@ -1738,11 +1457,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 20,
                         "name": "RATICATE"
                     },
                     "form": {
-                        "value": 48,
                         "name": "RATICATE_ALOLA"
                     },
                     "slot": 1,
@@ -1750,11 +1467,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 89,
                         "name": "MUK"
                     },
                     "form": {
-                        "value": 76,
                         "name": "MUK_ALOLA"
                     },
                     "slot": 1,
@@ -1762,11 +1477,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 89,
                         "name": "MUK"
                     },
                     "form": {
-                        "value": 76,
                         "name": "MUK_ALOLA"
                     },
                     "slot": 2,
@@ -1774,11 +1487,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 435,
                         "name": "SKUNTANK"
                     },
                     "form": {
-                        "value": 794,
                         "name": "SKUNTANK_NORMAL"
                     },
                     "slot": 2,
@@ -1788,17 +1499,14 @@
         },
         {
             "character": {
-                "value": 14,
                 "name": "CHARACTER_FAIRY_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 37,
                         "name": "VULPIX"
                     },
                     "form": {
-                        "value": 56,
                         "name": "VULPIX_ALOLA"
                     },
                     "total": 10013,
@@ -1806,11 +1514,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 209,
                         "name": "SNUBBULL"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 2263,
@@ -1818,11 +1524,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 210,
                         "name": "GRANBULL"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 467,
@@ -1830,11 +1534,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 280,
                         "name": "RALTS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 9828,
@@ -1842,11 +1544,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 281,
                         "name": "KIRLIA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 2177,
@@ -1854,11 +1554,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 303,
                         "name": "MAWILE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 4647,
@@ -1868,11 +1566,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 37,
                         "name": "VULPIX"
                     },
                     "form": {
-                        "value": 56,
                         "name": "VULPIX_ALOLA"
                     },
                     "slot": 0,
@@ -1880,11 +1576,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 280,
                         "name": "RALTS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -1892,11 +1586,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 303,
                         "name": "MAWILE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -1904,11 +1596,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 209,
                         "name": "SNUBBULL"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1916,11 +1606,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 210,
                         "name": "GRANBULL"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1928,11 +1616,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 281,
                         "name": "KIRLIA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -1940,11 +1626,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 38,
                         "name": "NINETALES"
                     },
                     "form": {
-                        "value": 58,
                         "name": "NINETALES_ALOLA"
                     },
                     "slot": 2,
@@ -1952,11 +1636,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 210,
                         "name": "GRANBULL"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -1964,11 +1646,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 282,
                         "name": "GARDEVOIR"
                     },
                     "form": {
-                        "value": 298,
                         "name": "GARDEVOIR_NORMAL"
                     },
                     "slot": 2,
@@ -1978,17 +1658,14 @@
         },
         {
             "character": {
-                "value": 32,
                 "name": "CHARACTER_POISON_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 215,
                         "name": "SNEASEL"
                     },
                     "form": {
-                        "value": 2794,
                         "name": "SNEASEL_HISUIAN"
                     },
                     "total": 29491,
@@ -1996,11 +1673,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 590,
                         "name": "FOONGUS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 29050,
@@ -2010,11 +1685,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 215,
                         "name": "SNEASEL"
                     },
                     "form": {
-                        "value": 2794,
                         "name": "SNEASEL_HISUIAN"
                     },
                     "slot": 0,
@@ -2022,11 +1695,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 590,
                         "name": "FOONGUS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -2034,11 +1705,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 30,
                         "name": "NIDORINA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2046,11 +1715,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 33,
                         "name": "NIDORINO"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2058,11 +1725,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 110,
                         "name": "WEEZING"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2070,11 +1735,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 454,
                         "name": "TOXICROAK"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2082,11 +1745,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 591,
                         "name": "AMOONGUSS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2096,17 +1757,14 @@
         },
         {
             "character": {
-                "value": 7,
                 "name": "CHARACTER_BUG_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 13,
                         "name": "WEEDLE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 4844,
@@ -2114,11 +1772,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 123,
                         "name": "SCYTHER"
                     },
                     "form": {
-                        "value": 247,
                         "name": "SCYTHER_NORMAL"
                     },
                     "total": 9385,
@@ -2126,11 +1782,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 213,
                         "name": "SHUCKLE"
                     },
                     "form": {
-                        "value": 827,
                         "name": "SHUCKLE_NORMAL"
                     },
                     "total": 21464,
@@ -2138,11 +1792,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 451,
                         "name": "SKORUPI"
                     },
                     "form": {
-                        "value": 1796,
                         "name": "SKORUPI_NORMAL"
                     },
                     "total": 2890,
@@ -2150,11 +1802,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 557,
                         "name": "DWEBBLE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 19182,
@@ -2164,11 +1814,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 123,
                         "name": "SCYTHER"
                     },
                     "form": {
-                        "value": 247,
                         "name": "SCYTHER_NORMAL"
                     },
                     "slot": 0,
@@ -2176,11 +1824,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 213,
                         "name": "SHUCKLE"
                     },
                     "form": {
-                        "value": 827,
                         "name": "SHUCKLE_NORMAL"
                     },
                     "slot": 0,
@@ -2188,11 +1834,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 557,
                         "name": "DWEBBLE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -2200,11 +1844,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 13,
                         "name": "WEEDLE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2212,11 +1854,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 213,
                         "name": "SHUCKLE"
                     },
                     "form": {
-                        "value": 827,
                         "name": "SHUCKLE_NORMAL"
                     },
                     "slot": 1,
@@ -2224,11 +1864,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 451,
                         "name": "SKORUPI"
                     },
                     "form": {
-                        "value": 1796,
                         "name": "SKORUPI_NORMAL"
                     },
                     "slot": 1,
@@ -2236,11 +1874,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 15,
                         "name": "BEEDRILL"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2248,11 +1884,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 205,
                         "name": "FORRETRESS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2260,11 +1894,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 212,
                         "name": "SCIZOR"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2274,17 +1906,14 @@
         },
         {
             "character": {
-                "value": 20,
                 "name": "CHARACTER_FLYING_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 16,
                         "name": "PIDGEY"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 36658,
@@ -2292,11 +1921,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 207,
                         "name": "GLIGAR"
                     },
                     "form": {
-                        "value": 803,
                         "name": "GLIGAR_NORMAL"
                     },
                     "total": 6080,
@@ -2304,11 +1931,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 396,
                         "name": "STARLY"
                     },
                     "form": {
-                        "value": 1658,
                         "name": "STARLY_NORMAL"
                     },
                     "total": 24957,
@@ -2316,11 +1941,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 397,
                         "name": "STARAVIA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 6114,
@@ -2330,11 +1953,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 16,
                         "name": "PIDGEY"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -2342,11 +1963,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 396,
                         "name": "STARLY"
                     },
                     "form": {
-                        "value": 1658,
                         "name": "STARLY_NORMAL"
                     },
                     "slot": 0,
@@ -2354,11 +1973,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 207,
                         "name": "GLIGAR"
                     },
                     "form": {
-                        "value": 803,
                         "name": "GLIGAR_NORMAL"
                     },
                     "slot": 1,
@@ -2366,11 +1983,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 397,
                         "name": "STARAVIA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2378,11 +1993,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 18,
                         "name": "PIDGEOT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2390,11 +2003,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 149,
                         "name": "DRAGONITE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2402,11 +2013,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 227,
                         "name": "SKARMORY"
                     },
                     "form": {
-                        "value": 1295,
                         "name": "SKARMORY_NORMAL"
                     },
                     "slot": 2,
@@ -2416,17 +2025,14 @@
         },
         {
             "character": {
-                "value": 12,
                 "name": "CHARACTER_DRAGON_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 147,
                         "name": "DRATINI"
                     },
                     "form": {
-                        "value": 190,
                         "name": "DRATINI_NORMAL"
                     },
                     "total": 7232,
@@ -2434,11 +2040,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 371,
                         "name": "BAGON"
                     },
                     "form": {
-                        "value": 755,
                         "name": "BAGON_NORMAL"
                     },
                     "total": 814,
@@ -2446,11 +2050,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 443,
                         "name": "GIBLE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 6848,
@@ -2460,11 +2062,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 147,
                         "name": "DRATINI"
                     },
                     "form": {
-                        "value": 190,
                         "name": "DRATINI_NORMAL"
                     },
                     "slot": 0,
@@ -2472,11 +2072,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 371,
                         "name": "BAGON"
                     },
                     "form": {
-                        "value": 755,
                         "name": "BAGON_NORMAL"
                     },
                     "slot": 0,
@@ -2484,11 +2082,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 443,
                         "name": "GIBLE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -2496,11 +2092,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 103,
                         "name": "EXEGGUTOR"
                     },
                     "form": {
-                        "value": 78,
                         "name": "EXEGGUTOR_ALOLA"
                     },
                     "slot": 1,
@@ -2508,11 +2102,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 148,
                         "name": "DRAGONAIR"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2520,11 +2112,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 444,
                         "name": "GABITE"
                     },
                     "form": {
-                        "value": 864,
                         "name": "GABITE_NORMAL"
                     },
                     "slot": 1,
@@ -2532,11 +2122,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 149,
                         "name": "DRAGONITE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2544,11 +2132,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 373,
                         "name": "SALAMENCE"
                     },
                     "form": {
-                        "value": 761,
                         "name": "SALAMENCE_NORMAL"
                     },
                     "slot": 2,
@@ -2556,11 +2142,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 445,
                         "name": "GARCHOMP"
                     },
                     "form": {
-                        "value": 867,
                         "name": "GARCHOMP_NORMAL"
                     },
                     "slot": 2,
@@ -2570,17 +2154,14 @@
         },
         {
             "character": {
-                "value": 31,
                 "name": "CHARACTER_NORMAL_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 216,
                         "name": "TEDDIURSA"
                     },
                     "form": {
-                        "value": 1265,
                         "name": "TEDDIURSA_NORMAL"
                     },
                     "total": 21967,
@@ -2588,11 +2169,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 234,
                         "name": "STANTLER"
                     },
                     "form": {
-                        "value": 941,
                         "name": "STANTLER_NORMAL"
                     },
                     "total": 21981,
@@ -2600,11 +2179,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 431,
                         "name": "GLAMEOW"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 29061,
@@ -2614,11 +2191,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 216,
                         "name": "TEDDIURSA"
                     },
                     "form": {
-                        "value": 1265,
                         "name": "TEDDIURSA_NORMAL"
                     },
                     "slot": 0,
@@ -2626,11 +2201,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 234,
                         "name": "STANTLER"
                     },
                     "form": {
-                        "value": 941,
                         "name": "STANTLER_NORMAL"
                     },
                     "slot": 0,
@@ -2638,11 +2211,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 431,
                         "name": "GLAMEOW"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -2650,11 +2221,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 19,
                         "name": "RATTATA"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2662,11 +2231,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 52,
                         "name": "MEOWTH"
                     },
                     "form": {
-                        "value": 63,
                         "name": "MEOWTH_NORMAL"
                     },
                     "slot": 1,
@@ -2674,11 +2241,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 432,
                         "name": "PURUGLY"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2686,11 +2251,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 217,
                         "name": "URSARING"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2698,11 +2261,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 234,
                         "name": "STANTLER"
                     },
                     "form": {
-                        "value": 941,
                         "name": "STANTLER_NORMAL"
                     },
                     "slot": 2,
@@ -2710,11 +2271,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 400,
                         "name": "BIBAREL"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2724,17 +2283,14 @@
         },
         {
             "character": {
-                "value": 4,
                 "name": "CHARACTER_GRUNT_MALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 252,
                         "name": "TREECKO"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 7250,
@@ -2742,11 +2298,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 255,
                         "name": "TORCHIC"
                     },
                     "form": {
-                        "value": 1358,
                         "name": "TORCHIC_NORMAL"
                     },
                     "total": 7419,
@@ -2754,11 +2308,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 258,
                         "name": "MUDKIP"
                     },
                     "form": {
-                        "value": 205,
                         "name": "MUDKIP_NORMAL"
                     },
                     "total": 7107,
@@ -2768,11 +2320,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 252,
                         "name": "TREECKO"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -2780,11 +2330,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 255,
                         "name": "TORCHIC"
                     },
                     "form": {
-                        "value": 1358,
                         "name": "TORCHIC_NORMAL"
                     },
                     "slot": 0,
@@ -2792,11 +2340,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 258,
                         "name": "MUDKIP"
                     },
                     "form": {
-                        "value": 205,
                         "name": "MUDKIP_NORMAL"
                     },
                     "slot": 0,
@@ -2804,11 +2350,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 253,
                         "name": "GROVYLE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2816,11 +2360,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 256,
                         "name": "COMBUSKEN"
                     },
                     "form": {
-                        "value": 1361,
                         "name": "COMBUSKEN_NORMAL"
                     },
                     "slot": 1,
@@ -2828,11 +2370,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 259,
                         "name": "MARSHTOMP"
                     },
                     "form": {
-                        "value": 208,
                         "name": "MARSHTOMP_NORMAL"
                     },
                     "slot": 1,
@@ -2840,11 +2380,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 254,
                         "name": "SCEPTILE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2852,11 +2390,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 257,
                         "name": "BLAZIKEN"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2864,11 +2400,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 260,
                         "name": "SWAMPERT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2878,17 +2412,14 @@
         },
         {
             "character": {
-                "value": 5,
                 "name": "CHARACTER_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 143,
                         "name": "SNORLAX"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 14460,
@@ -2898,11 +2429,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 143,
                         "name": "SNORLAX"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -2910,11 +2439,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 62,
                         "name": "POLIWRATH"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2922,11 +2449,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 143,
                         "name": "SNORLAX"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2934,11 +2459,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 282,
                         "name": "GARDEVOIR"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -2946,11 +2469,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 130,
                         "name": "GYARADOS"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2958,11 +2479,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 143,
                         "name": "SNORLAX"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2970,11 +2489,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 149,
                         "name": "DRAGONITE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -2984,17 +2501,14 @@
         },
         {
             "character": {
-                "value": 46,
                 "name": "CHARACTER_DECOY_GRUNT_FEMALE"
             },
             "rewards": [
                 {
                     "pokemon": {
-                        "value": 69,
                         "name": "BELLSPROUT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "total": 109402,
@@ -3004,11 +2518,9 @@
             "team": [
                 {
                     "pokemon": {
-                        "value": 69,
                         "name": "BELLSPROUT"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 0,
@@ -3016,11 +2528,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 20,
                         "name": "RATICATE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -3028,11 +2538,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 70,
                         "name": "WEEPINBELL"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 1,
@@ -3040,11 +2548,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 20,
                         "name": "RATICATE"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
@@ -3052,11 +2558,9 @@
                 },
                 {
                     "pokemon": {
-                        "value": 143,
                         "name": "SNORLAX"
                     },
                     "form": {
-                        "value": 0,
                         "name": "FORM_UNSET"
                     },
                     "slot": 2,
