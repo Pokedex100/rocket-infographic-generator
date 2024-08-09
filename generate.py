@@ -5,17 +5,26 @@ def clean_pokemon_name(pokemon):
     """
     Clean the Pokémon name by removing any prefixes like "1st:", "2nd:", "3rd:" and extra spaces.
     """
-    return re.sub(r'^\d+(st|nd|rd|th):\s*', '', pokemon).strip().upper()
+    # Remove prefixes like "1st:", "2nd:", "3rd:" and any extra spaces
+    pokemon = re.sub(r'^\d+(st|nd|rd|th):\s*', '', pokemon).strip()
+    # Remove any "(Encounter)" or "(Shiny)" tags
+    pokemon = re.sub(r'\s*\(Encounter\)', '', pokemon).strip()
+    pokemon = re.sub(r'\s*\(Shiny\)', '', pokemon).strip()
+    return pokemon.upper()
 
 def parse_pokemon_line(line, slot):
     """
     Parse a line of Pokémon data and return the formatted dictionary for the team array.
     """
     pokemon_data = []
-    pokemons = re.split(r',\s*', line.replace("(Encounter)", ""))
+    pokemons = re.split(r',\s*', line)
+    
     for pokemon in pokemons:
+        is_shiny = "(Shiny)" in pokemon
         cleaned_name = clean_pokemon_name(pokemon)
         pokemon_lower = cleaned_name.lower()
+
+        # Determine the form and clean the name accordingly
         if "alolan" in pokemon_lower:
             form = "ALOLAN"
             name = cleaned_name.replace("ALOLAN", "").strip()
@@ -31,10 +40,14 @@ def parse_pokemon_line(line, slot):
         else:
             form = "FORM_UNSET"
             name = cleaned_name
+        
+        # Format the Pokémon name with form if applicable
+        pokemon_form_name = f"{name}_{form}" if form != "FORM_UNSET" else name
+        
         pokemon_data.append({
             "pokemon": {"name": name},
-            "form": {"name": f"{name}_{form}" if form != "FORM_UNSET" else "FORM_UNSET"},
-            "slot": slot
+            "form": {"name": pokemon_form_name},
+            "slot": slot,
         })
     return pokemon_data
 
@@ -43,10 +56,14 @@ def parse_rewards(line):
     Parse a line of Pokémon marked as encounter and return the formatted dictionary for the rewards array.
     """
     reward_data = []
-    pokemons = re.split(r',\s*', line.replace("(Encounter)", ""))
+    pokemons = re.split(r',\s*', line)
+    
     for pokemon in pokemons:
+        is_shiny = "(Shiny)" in pokemon
         cleaned_name = clean_pokemon_name(pokemon)
         pokemon_lower = cleaned_name.lower()
+
+        # Determine the form and clean the name accordingly
         if "alolan" in pokemon_lower:
             form = "ALOLAN"
             name = cleaned_name.replace("ALOLAN", "").strip()
@@ -62,10 +79,14 @@ def parse_rewards(line):
         else:
             form = "FORM_UNSET"
             name = cleaned_name
+        
+        # Format the Pokémon name with form if applicable
+        pokemon_form_name = f"{name}_{form}" if form != "FORM_UNSET" else name
+        
         reward_data.append({
             "pokemon": {"name": name},
-            "form": {"name": f"{name}_{form}" if form != "FORM_UNSET" else "FORM_UNSET"},
-            "shinies": 0
+            "form": {"name": pokemon_form_name},
+            "shinies": 1 if is_shiny else 0
         })
     return reward_data
 
@@ -76,7 +97,7 @@ def parse_character_data(character_name, lines):
     character_name = character_name.strip().upper().replace(" (FEMALE)", " FEMALE").replace(" (MALE)", " MALE")
     character_data = {
         "character": {
-            "name": f"CHARACTER_{character_name.replace(' ', '_')}"
+            "name": f"CHARACTER_{character_name.replace(' ', '_').replace('(', '').replace(')', '')}"
         },
         "rewards": [],
         "team": []

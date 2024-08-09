@@ -12,7 +12,7 @@ Fire Grunt (Female)
 
 Water Grunt (Female)
 
-1st: Omanyte, Totodile, Tirtouga (Encounter)
+1st: Omanyte (Shiny), Totodile, Tirtouga (Encounter)
 2nd: Croconaw, Crawdaunt
 3rd: Whiscash, Carracosta, Feraligatr
 
@@ -24,7 +24,7 @@ Water Grunt (Male)
 
 Electric Grunt (Female)
 
-1st: Joltik, Magnemite, Blitzle (Encounter)
+1st: Joltik, Magnemite (Shiny), Blitzle (Encounter)
 2nd: Voltorb, Alolan Geodude, Electabuzz (Encounter)
 3rd: Galvantula, Ampharos, Luxray
 
@@ -54,7 +54,7 @@ Steel Grunt (Male)
 
 Fighting Grunt (Female)
 
-1st: Machop, Timburr, Makuhita (Encounter)
+1st: Machop (Shiny), Timburr, Makuhita (Encounter)
 2nd: Hitmonlee, Hitmonchan, Gurdurr (Encounter)
 3rd: Toxicroak, Conkeldurr, Infernape
 
@@ -67,7 +67,7 @@ Psychic Grunt (Male)
 Ghost Grunt (Male)
 
 1st: Misdreavus, Golett, Drifloon (Encounter)
-2nd: Golett, Sableye, Dusclops (Encounter)
+2nd: Golett, Sableye (Shiny), Dusclops (Encounter)
 3rd: Gengar, Alolan Marowak, Froslass
 
 Dark Grunt (Female)
@@ -78,7 +78,7 @@ Dark Grunt (Female)
 
 Fairy Grunt (Female)
 
-1st: Mawile, Alolan Vulpix, Ralts (Encounter)
+1st: Mawile (Shiny), Alolan Vulpix, Ralts (Encounter)
 2nd: Kirlia, Snubbull, Granbull (Encounter)
 3rd: Granbull, Gardevoir, Alolan Ninetales
 
@@ -90,26 +90,26 @@ Poison Grunt (Female)
 
 Bug Grunt (Male)
 
-1st: Dwebble, Scyther, Shuckle (Encounter)
-2nd: Shuckle, Skorupi, Anorith (Encounter)
+1st: Dwebble, Scyther (Shiny), Shuckle (Encounter)
+2nd: Shuckle, Skorupi, Anorith (Shiny) (Encounter)
 3rd: Scizor, Forretress, Beedrill
 
 Flying Grunt (Female)
 
 1st: Pidgey, Archen, Starly (Encounter)
-2nd: Gligar, Staravia (Encounter)
+2nd: Gligar (Shiny), Staravia (Encounter)
 3rd: Dragonite, Pidgeot, Archeops
 
 Dragon Grunt (Female)
 
-1st: Dratini, Gible (Encounter)
+1st: Dratini (Shiny), Gible (Encounter)
 2nd: Dragonair, Alolan Exeggutor, Gabite
 3rd: Dragonite, Garchomp, Salamence
 
 Normal Grunt (Male)
 
-1st: Teddiursa, Stantler, Glameow (Encounter)
-2nd: Rattata, Meowth, Purugly (Encounter)
+1st: Teddiursa (Shiny), Stantler (Shiny), Glameow (Encounter)
+2nd: Rattata, Meowth (Shiny), Purugly (Encounter)
 3rd: Ursaring, Stantler, Exploud
 
 Grunt (Male)
@@ -126,6 +126,6 @@ Grunt (Female)
 
 Decoy Grunt (Female)
 
-1st: Bellsprout (Encounter)
+1st: Bellsprout (Shiny) (Encounter)
 2nd: Victreebel, Raticate
 3rd: Snorlax, Raticate
