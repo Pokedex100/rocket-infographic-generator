@@ -1,4 +1,4 @@
-let BASEURL = "/";
+let BASEURL = "./";
 async function raidsFetch(base, endpoint, method, message) {
   await fetch(base + endpoint, {
     method: method,

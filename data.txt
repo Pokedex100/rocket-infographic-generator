@@ -1,0 +1,109 @@
+Female decoy 
+1st Bellsprout  encounter 
+2nd victreebell, kanto raticate
+3rd snrolax, raticate
+
+Female grunt 
+1st snrolax encounter
+2nd snorlax, poiwrath, gardevour
+3rd snorlax, gyarados, dragonite
+
+Normal 
+1st teddiursa, stantler, glameow encounter 
+2nd kanto rattata, kanto meowth, purugly encounter 
+3rd ursaring, statler, exploud 
+
+Male grunt
+1st chicorita, cyndaquil, totodile
+2nd bayleaf,  quilava, croconaw
+3rd meganium, typhlosion, feraligatr
+
+Psychic 
+1st gohita,  solosis encounter 
+2nd ralts, gohita, wobbufett
+3rd gallade, matagross, reuniclus
+
+Fighting 
+1st machop, timburr, makuhita encounter
+2nd hitmonlee, hitmonchan, gurdurr encounter 
+3rd toxicroak, conkeldurr, infernape
+
+Ghost 
+1st misdrevous, golett, drifloon encounter 
+2nd golett, sableye, dusclops encounter 
+3rd gengar, alolan marawak, froslass
+
+Dragon 
+1st  dratinii, gible encounter 
+2nd dragonair, alolan Exeggutor , gabite
+3rd Dragonite, garchomp, salamence
+
+Fairy 
+1: mawile, alolan vulpix, ralts-encounter 
+2: kirlia, snubbull, granbull-encounter 
+3: granbull, gardevoir, alolan ninetails
+
+Flying 
+1: pidgey, archen, starley-encounter 
+2: gligar, staravia -encounter 
+3: dragonite, pidgeot, archeops
+
+Ground 
+1: wooper, alolan diglett, drilbur-encounter 
+2: vibrava, rhyhorn, -encounter
+3: torterra, whiscash, flygon
+
+Electric 
+1: joltik, magnemite, blitzle-encounter 
+2: voltorb, alolan geodude, electabuzz-encounter 
+3: galvantula, ampharos, luxray
+
+Poison 
+1st croagunk, Hisuian sneasel encounter 
+2nd nidorina, nidorino,
+3rd weezing, toxicroak, amoongguss
+
+Dark 
+1st stunky, alolan rattata, houndour encounter
+2nd alolan muk, alolan raticate
+3rd alolan muk, skuntank
+
+Steel 
+1st alolan sandshew, skarmory, ferroseed encounter
+2nd lairon, skarmory, metang
+3rd empoleon, scizor, alolan sandslash 
+
+Rock 
+1st tirtouga, archen encounter
+2nd graveler, lileep, anorith
+3rd archeops, carracosta, golem 
+
+Bug 
+1st dwebble , scyther, shuckle encounter
+2nd shuckle, skropi, anorith encounter
+3rd scizor, forretress, beedrill 
+
+Ice 
+1st swinub, alolan sandshrew, snover encounter
+2nd alolan ninetails, glalie, froslass
+3rd abomasnow, glalie, froslass 
+
+Water  male
+1st magikarp encounter 
+2nd magikarp,
+3rd magikarp,gyarados 
+
+Water  female
+1st omanyte, totodile, tirtouga encounter
+2nd Croconaw, crawdaunt
+3rd wiscash, carracosta, feraligatr 
+
+Grass 
+1st chikorita, snover encounter
+2nd ferrothorn, bayleaf, lileep
+3rd meganium, vileplum, cacturne 
+
+Fire 
+1st cyndaquil, darumaka encounter
+2nd houndoom, quilava,
+3rd darmanitan, houndoom, typhlosion
