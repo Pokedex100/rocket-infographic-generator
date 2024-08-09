@@ -63,28 +63,10 @@
                 },
                 {
                     "pokemon": {
-                        "name": "LILEEP"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 1
-                },
-                {
-                    "pokemon": {
                         "name": "MEGANIUM"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 2
-                },
-                {
-                    "pokemon": {
-                        "name": "VILEPLUME"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MEGANIUM_NORMAL"
                     },
                     "slot": 2
                 },
@@ -94,6 +76,15 @@
                     },
                     "form": {
                         "name": "FORM_UNSET"
+                    },
+                    "slot": 2
+                },
+                {
+                    "pokemon": {
+                        "name": "TORTERRA"
+                    },
+                    "form": {
+                        "name": "TORTERRA_NORMAL"
                     },
                     "slot": 2
                 }
@@ -106,10 +97,10 @@
             "rewards": [
                 {
                     "pokemon": {
-                        "name": "CYNDAQUIL"
+                        "name": "CHIMCHAR"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "CHIMCHAR_NORMAL"
                     },
                     "shinies": 0
                 },
@@ -118,7 +109,7 @@
                         "name": "DARUMAKA"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "DARUMAKA_NORMAL"
                     },
                     "shinies": 0
                 }
@@ -126,10 +117,10 @@
             "team": [
                 {
                     "pokemon": {
-                        "name": "CYNDAQUIL"
+                        "name": "CHIMCHAR"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "CHIMCHAR_NORMAL"
                     },
                     "slot": 0
                 },
@@ -138,7 +129,7 @@
                         "name": "DARUMAKA"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "DARUMAKA_NORMAL"
                     },
                     "slot": 0
                 },
@@ -147,43 +138,43 @@
                         "name": "HOUNDOOM"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "HOUNDOOM_NORMAL"
                     },
                     "slot": 1
                 },
                 {
                     "pokemon": {
-                        "name": "QUILAVA"
+                        "name": "MONFERNO"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MONFERNO_NORMAL"
                     },
                     "slot": 1
-                },
-                {
-                    "pokemon": {
-                        "name": "DARMANITAN"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 2
                 },
                 {
                     "pokemon": {
                         "name": "HOUNDOOM"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "HOUNDOOM_NORMAL"
                     },
                     "slot": 2
                 },
                 {
                     "pokemon": {
-                        "name": "TYPHLOSION"
+                        "name": "INFERNAPE"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "INFERNAPE_NORMAL"
+                    },
+                    "slot": 2
+                },
+                {
+                    "pokemon": {
+                        "name": "DARMANITAN"
+                    },
+                    "form": {
+                        "name": "DARMANITAN_STANDARD"
                     },
                     "slot": 2
                 }
@@ -196,25 +187,16 @@
             "rewards": [
                 {
                     "pokemon": {
-                        "name": "OMANYTE"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
                         "name": "TOTODILE"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "TOTODILE_NORMAL"
                     },
                     "shinies": 0
                 },
                 {
                     "pokemon": {
-                        "name": "TIRTOUGA"
+                        "name": "PIPLUP"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -225,39 +207,21 @@
             "team": [
                 {
                     "pokemon": {
-                        "name": "OMANYTE"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 0
-                },
-                {
-                    "pokemon": {
                         "name": "TOTODILE"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "TOTODILE_NORMAL"
                     },
                     "slot": 0
                 },
                 {
                     "pokemon": {
-                        "name": "TIRTOUGA"
+                        "name": "PIPLUP"
                     },
                     "form": {
                         "name": "FORM_UNSET"
                     },
                     "slot": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "CROCONAW"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 1
                 },
                 {
                     "pokemon": {
@@ -270,6 +234,24 @@
                 },
                 {
                     "pokemon": {
+                        "name": "PRINPLUP"
+                    },
+                    "form": {
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1
+                },
+                {
+                    "pokemon": {
+                        "name": "WAILORD"
+                    },
+                    "form": {
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2
+                },
+                {
+                    "pokemon": {
                         "name": "WHISCASH"
                     },
                     "form": {
@@ -279,16 +261,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "CARRACOSTA"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 2
-                },
-                {
-                    "pokemon": {
-                        "name": "FERALIGATR"
+                        "name": "EMPOLEON"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -358,16 +331,7 @@
             "rewards": [
                 {
                     "pokemon": {
-                        "name": "JOLTIK"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "MAGNEMITE"
+                        "name": "MAREEP"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -385,25 +349,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "VOLTORB"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "GEODUDE"
-                    },
-                    "form": {
-                        "name": "GEODUDE_ALOLAN"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "ELECTABUZZ"
+                        "name": "JOLTIK"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -414,16 +360,7 @@
             "team": [
                 {
                     "pokemon": {
-                        "name": "JOLTIK"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "MAGNEMITE"
+                        "name": "MAREEP"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -441,19 +378,28 @@
                 },
                 {
                     "pokemon": {
-                        "name": "VOLTORB"
+                        "name": "JOLTIK"
                     },
                     "form": {
                         "name": "FORM_UNSET"
                     },
-                    "slot": 1
+                    "slot": 0
                 },
                 {
                     "pokemon": {
                         "name": "GEODUDE"
                     },
                     "form": {
-                        "name": "GEODUDE_ALOLAN"
+                        "name": "GEODUDE_ALOLA"
+                    },
+                    "slot": 1
+                },
+                {
+                    "pokemon": {
+                        "name": "VOLTORB"
+                    },
+                    "form": {
+                        "name": "VOLTORB_NORMAL"
                     },
                     "slot": 1
                 },
@@ -462,18 +408,9 @@
                         "name": "ELECTABUZZ"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "ELECTABUZZ_NORMAL"
                     },
                     "slot": 1
-                },
-                {
-                    "pokemon": {
-                        "name": "GALVANTULA"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 2
                 },
                 {
                     "pokemon": {
@@ -492,6 +429,15 @@
                         "name": "FORM_UNSET"
                     },
                     "slot": 2
+                },
+                {
+                    "pokemon": {
+                        "name": "GALVANTULA"
+                    },
+                    "form": {
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2
                 }
             ]
         },
@@ -502,6 +448,24 @@
             "rewards": [
                 {
                     "pokemon": {
+                        "name": "DIGLETT"
+                    },
+                    "form": {
+                        "name": "DIGLETT_ALOLA"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "RHYHORN"
+                    },
+                    "form": {
+                        "name": "RHYHORN_NORMAL"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
                         "name": "WOOPER"
                     },
                     "form": {
@@ -511,34 +475,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "DIGLETT"
-                    },
-                    "form": {
-                        "name": "DIGLETT_ALOLAN"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
                         "name": "DRILBUR"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "VIBRAVA"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "RHYHORN"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -549,19 +486,19 @@
             "team": [
                 {
                     "pokemon": {
-                        "name": "WOOPER"
+                        "name": "DIGLETT"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "DIGLETT_ALOLA"
                     },
                     "slot": 0
                 },
                 {
                     "pokemon": {
-                        "name": "DIGLETT"
+                        "name": "WOOPER"
                     },
                     "form": {
-                        "name": "DIGLETT_ALOLAN"
+                        "name": "FORM_UNSET"
                     },
                     "slot": 0
                 },
@@ -576,28 +513,19 @@
                 },
                 {
                     "pokemon": {
-                        "name": "VIBRAVA"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 1
-                },
-                {
-                    "pokemon": {
                         "name": "RHYHORN"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "RHYHORN_NORMAL"
                     },
                     "slot": 1
                 },
                 {
                     "pokemon": {
-                        "name": "TORTERRA"
+                        "name": "QUAGSIRE"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "QUAGSIRE_NORMAL"
                     },
                     "slot": 2
                 },
@@ -612,10 +540,10 @@
                 },
                 {
                     "pokemon": {
-                        "name": "FLYGON"
+                        "name": "TORTERRA"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "TORTERRA_NORMAL"
                     },
                     "slot": 2
                 }
@@ -637,16 +565,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "SANDSHREW"
-                    },
-                    "form": {
-                        "name": "SANDSHREW_ALOLAN"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "SNOVER"
+                        "name": "SNORUNT"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -666,16 +585,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "SANDSHREW"
-                    },
-                    "form": {
-                        "name": "SANDSHREW_ALOLAN"
-                    },
-                    "slot": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "SNOVER"
+                        "name": "SNORUNT"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -687,7 +597,7 @@
                         "name": "NINETALES"
                     },
                     "form": {
-                        "name": "NINETALES_ALOLAN"
+                        "name": "NINETALES_ALOLA"
                     },
                     "slot": 1
                 },
@@ -711,7 +621,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "ABOMASNOW"
+                        "name": "GLALIE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -720,7 +630,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "GLALIE"
+                        "name": "ABOMASNOW"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -745,7 +655,16 @@
             "rewards": [
                 {
                     "pokemon": {
-                        "name": "TIRTOUGA"
+                        "name": "ONIX"
+                    },
+                    "form": {
+                        "name": "ONIX_NORMAL"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "CRANIDOS"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -754,7 +673,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "ARCHEN"
+                        "name": "SHIELDON"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -765,7 +684,16 @@
             "team": [
                 {
                     "pokemon": {
-                        "name": "TIRTOUGA"
+                        "name": "ONIX"
+                    },
+                    "form": {
+                        "name": "ONIX_NORMAL"
+                    },
+                    "slot": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "CRANIDOS"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -774,7 +702,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "ARCHEN"
+                        "name": "SHIELDON"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -810,25 +738,25 @@
                 },
                 {
                     "pokemon": {
-                        "name": "ARCHEOPS"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 2
-                },
-                {
-                    "pokemon": {
-                        "name": "CARRACOSTA"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 2
-                },
-                {
-                    "pokemon": {
                         "name": "GOLEM"
+                    },
+                    "form": {
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2
+                },
+                {
+                    "pokemon": {
+                        "name": "RAMPARDOS"
+                    },
+                    "form": {
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 2
+                },
+                {
+                    "pokemon": {
+                        "name": "BASTIODON"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -839,7 +767,7 @@
         },
         {
             "character": {
-                "name": "CHARACTER_STEEL_GRUNT_MALE"
+                "name": "CHARACTER_METAL_GRUNT_MALE"
             },
             "rewards": [
                 {
@@ -847,7 +775,7 @@
                         "name": "SANDSHREW"
                     },
                     "form": {
-                        "name": "SANDSHREW_ALOLAN"
+                        "name": "SANDSHREW_ALOLA"
                     },
                     "shinies": 0
                 },
@@ -856,7 +784,7 @@
                         "name": "SKARMORY"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SKARMORY_NORMAL"
                     },
                     "shinies": 0
                 },
@@ -876,7 +804,7 @@
                         "name": "SANDSHREW"
                     },
                     "form": {
-                        "name": "SANDSHREW_ALOLAN"
+                        "name": "SANDSHREW_ALOLA"
                     },
                     "slot": 0
                 },
@@ -885,7 +813,7 @@
                         "name": "SKARMORY"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SKARMORY_NORMAL"
                     },
                     "slot": 0
                 },
@@ -900,16 +828,16 @@
                 },
                 {
                     "pokemon": {
-                        "name": "LAIRON"
+                        "name": "SKARMORY"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SKARMORY_NORMAL"
                     },
                     "slot": 1
                 },
                 {
                     "pokemon": {
-                        "name": "SKARMORY"
+                        "name": "LAIRON"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -927,10 +855,10 @@
                 },
                 {
                     "pokemon": {
-                        "name": "EMPOLEON"
+                        "name": "SANDSLASH"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SANDSLASH_ALOLA"
                     },
                     "slot": 2
                 },
@@ -945,10 +873,10 @@
                 },
                 {
                     "pokemon": {
-                        "name": "SANDSLASH"
+                        "name": "EMPOLEON"
                     },
                     "form": {
-                        "name": "SANDSLASH_ALOLAN"
+                        "name": "FORM_UNSET"
                     },
                     "slot": 2
                 }
@@ -964,25 +892,7 @@
                         "name": "MACHOP"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "TIMBURR"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "MAKUHITA"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MACHOP_NORMAL"
                     },
                     "shinies": 0
                 },
@@ -1006,10 +916,28 @@
                 },
                 {
                     "pokemon": {
-                        "name": "GURDURR"
+                        "name": "SNEASEL"
+                    },
+                    "form": {
+                        "name": "SNEASEL_HISUIAN"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "HITMONTOP"
                     },
                     "form": {
                         "name": "FORM_UNSET"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "MAKUHITA"
+                    },
+                    "form": {
+                        "name": "MAKUHITA_NORMAL"
                     },
                     "shinies": 0
                 }
@@ -1020,16 +948,16 @@
                         "name": "MACHOP"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MACHOP_NORMAL"
                     },
                     "slot": 0
                 },
                 {
                     "pokemon": {
-                        "name": "TIMBURR"
+                        "name": "SNEASEL"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SNEASEL_HISUIAN"
                     },
                     "slot": 0
                 },
@@ -1038,7 +966,7 @@
                         "name": "MAKUHITA"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MAKUHITA_NORMAL"
                     },
                     "slot": 0
                 },
@@ -1062,7 +990,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "GURDURR"
+                        "name": "HITMONTOP"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1071,25 +999,25 @@
                 },
                 {
                     "pokemon": {
-                        "name": "TOXICROAK"
+                        "name": "MACHAMP"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 2
-                },
-                {
-                    "pokemon": {
-                        "name": "CONKELDURR"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MACHAMP_NORMAL"
                     },
                     "slot": 2
                 },
                 {
                     "pokemon": {
                         "name": "INFERNAPE"
+                    },
+                    "form": {
+                        "name": "INFERNAPE_NORMAL"
+                    },
+                    "slot": 2
+                },
+                {
+                    "pokemon": {
+                        "name": "TOXICROAK"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1143,46 +1071,46 @@
                 },
                 {
                     "pokemon": {
-                        "name": "RALTS"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 1
-                },
-                {
-                    "pokemon": {
-                        "name": "GOTHITA"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 1
-                },
-                {
-                    "pokemon": {
                         "name": "WOBBUFFET"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "WOBBUFFET_NORMAL"
                     },
                     "slot": 1
                 },
                 {
                     "pokemon": {
-                        "name": "GALLADE"
+                        "name": "RALTS"
+                    },
+                    "form": {
+                        "name": "RALTS_NORMAL"
+                    },
+                    "slot": 1
+                },
+                {
+                    "pokemon": {
+                        "name": "GOTHORITA"
                     },
                     "form": {
                         "name": "FORM_UNSET"
                     },
-                    "slot": 2
+                    "slot": 1
                 },
                 {
                     "pokemon": {
                         "name": "METAGROSS"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "METAGROSS_NORMAL"
+                    },
+                    "slot": 2
+                },
+                {
+                    "pokemon": {
+                        "name": "GALLADE"
+                    },
+                    "form": {
+                        "name": "GALLADE_NORMAL"
                     },
                     "slot": 2
                 },
@@ -1207,13 +1135,22 @@
                         "name": "MISDREAVUS"
                     },
                     "form": {
+                        "name": "MISDREAVUS_NORMAL"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "BANETTE"
+                    },
+                    "form": {
                         "name": "FORM_UNSET"
                     },
                     "shinies": 0
                 },
                 {
                     "pokemon": {
-                        "name": "GOLETT"
+                        "name": "DUSCLOPS"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1232,24 +1169,6 @@
                 {
                     "pokemon": {
                         "name": "GOLETT"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "SABLEYE"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "DUSCLOPS"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1263,16 +1182,7 @@
                         "name": "MISDREAVUS"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "GOLETT"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MISDREAVUS_NORMAL"
                     },
                     "slot": 0
                 },
@@ -1292,11 +1202,11 @@
                     "form": {
                         "name": "FORM_UNSET"
                     },
-                    "slot": 1
+                    "slot": 0
                 },
                 {
                     "pokemon": {
-                        "name": "SABLEYE"
+                        "name": "BANETTE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1314,10 +1224,19 @@
                 },
                 {
                     "pokemon": {
-                        "name": "GENGAR"
+                        "name": "GOLETT"
                     },
                     "form": {
                         "name": "FORM_UNSET"
+                    },
+                    "slot": 1
+                },
+                {
+                    "pokemon": {
+                        "name": "GENGAR"
+                    },
+                    "form": {
+                        "name": "GENGAR_NORMAL"
                     },
                     "slot": 2
                 },
@@ -1326,7 +1245,7 @@
                         "name": "MAROWAK"
                     },
                     "form": {
-                        "name": "MAROWAK_ALOLAN"
+                        "name": "MAROWAK_ALOLA"
                     },
                     "slot": 2
                 },
@@ -1348,19 +1267,10 @@
             "rewards": [
                 {
                     "pokemon": {
-                        "name": "STUNKY"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
                         "name": "RATTATA"
                     },
                     "form": {
-                        "name": "RATTATA_ALOLAN"
+                        "name": "RATTATA_ALOLA"
                     },
                     "shinies": 0
                 },
@@ -1369,7 +1279,16 @@
                         "name": "HOUNDOUR"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "HOUNDOUR_NORMAL"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "STUNKY"
+                    },
+                    "form": {
+                        "name": "STUNKY_NORMAL"
                     },
                     "shinies": 0
                 }
@@ -1377,19 +1296,10 @@
             "team": [
                 {
                     "pokemon": {
-                        "name": "STUNKY"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 0
-                },
-                {
-                    "pokemon": {
                         "name": "RATTATA"
                     },
                     "form": {
-                        "name": "RATTATA_ALOLAN"
+                        "name": "RATTATA_ALOLA"
                     },
                     "slot": 0
                 },
@@ -1398,25 +1308,25 @@
                         "name": "HOUNDOUR"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "HOUNDOUR_NORMAL"
                     },
                     "slot": 0
                 },
                 {
                     "pokemon": {
-                        "name": "MUK"
+                        "name": "STUNKY"
                     },
                     "form": {
-                        "name": "MUK_ALOLAN"
+                        "name": "STUNKY_NORMAL"
                     },
-                    "slot": 1
+                    "slot": 0
                 },
                 {
                     "pokemon": {
                         "name": "RATICATE"
                     },
                     "form": {
-                        "name": "RATICATE_ALOLAN"
+                        "name": "RATICATE_ALOLA"
                     },
                     "slot": 1
                 },
@@ -1425,7 +1335,16 @@
                         "name": "MUK"
                     },
                     "form": {
-                        "name": "MUK_ALOLAN"
+                        "name": "MUK_ALOLA"
+                    },
+                    "slot": 1
+                },
+                {
+                    "pokemon": {
+                        "name": "MUK"
+                    },
+                    "form": {
+                        "name": "MUK_ALOLA"
                     },
                     "slot": 2
                 },
@@ -1434,7 +1353,7 @@
                         "name": "SKUNTANK"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SKUNTANK_NORMAL"
                     },
                     "slot": 2
                 }
@@ -1447,7 +1366,16 @@
             "rewards": [
                 {
                     "pokemon": {
-                        "name": "MAWILE"
+                        "name": "VULPIX"
+                    },
+                    "form": {
+                        "name": "VULPIX_ALOLA"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "SNUBBULL"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1456,10 +1384,10 @@
                 },
                 {
                     "pokemon": {
-                        "name": "VULPIX"
+                        "name": "GRANBULL"
                     },
                     "form": {
-                        "name": "VULPIX_ALOLAN"
+                        "name": "FORM_UNSET"
                     },
                     "shinies": 0
                 },
@@ -1483,16 +1411,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "SNUBBULL"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "GRANBULL"
+                        "name": "MAWILE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1503,19 +1422,10 @@
             "team": [
                 {
                     "pokemon": {
-                        "name": "MAWILE"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 0
-                },
-                {
-                    "pokemon": {
                         "name": "VULPIX"
                     },
                     "form": {
-                        "name": "VULPIX_ALOLAN"
+                        "name": "VULPIX_ALOLA"
                     },
                     "slot": 0
                 },
@@ -1530,12 +1440,12 @@
                 },
                 {
                     "pokemon": {
-                        "name": "KIRLIA"
+                        "name": "MAWILE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
                     },
-                    "slot": 1
+                    "slot": 0
                 },
                 {
                     "pokemon": {
@@ -1554,6 +1464,24 @@
                         "name": "FORM_UNSET"
                     },
                     "slot": 1
+                },
+                {
+                    "pokemon": {
+                        "name": "KIRLIA"
+                    },
+                    "form": {
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1
+                },
+                {
+                    "pokemon": {
+                        "name": "NINETALES"
+                    },
+                    "form": {
+                        "name": "NINETALES_ALOLA"
+                    },
+                    "slot": 2
                 },
                 {
                     "pokemon": {
@@ -1569,16 +1497,7 @@
                         "name": "GARDEVOIR"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 2
-                },
-                {
-                    "pokemon": {
-                        "name": "NINETALES"
-                    },
-                    "form": {
-                        "name": "NINETALES_ALOLAN"
+                        "name": "GARDEVOIR_NORMAL"
                     },
                     "slot": 2
                 }
@@ -1591,19 +1510,19 @@
             "rewards": [
                 {
                     "pokemon": {
-                        "name": "CROAGUNK"
+                        "name": "SNEASEL"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SNEASEL_HISUIAN"
                     },
                     "shinies": 0
                 },
                 {
                     "pokemon": {
-                        "name": "SNEASEL"
+                        "name": "FOONGUS"
                     },
                     "form": {
-                        "name": "SNEASEL_HISUIAN"
+                        "name": "FORM_UNSET"
                     },
                     "shinies": 0
                 }
@@ -1611,19 +1530,19 @@
             "team": [
                 {
                     "pokemon": {
-                        "name": "CROAGUNK"
+                        "name": "SNEASEL"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SNEASEL_HISUIAN"
                     },
                     "slot": 0
                 },
                 {
                     "pokemon": {
-                        "name": "SNEASEL"
+                        "name": "FOONGUS"
                     },
                     "form": {
-                        "name": "SNEASEL_HISUIAN"
+                        "name": "FORM_UNSET"
                     },
                     "slot": 0
                 },
@@ -1681,7 +1600,7 @@
             "rewards": [
                 {
                     "pokemon": {
-                        "name": "DWEBBLE"
+                        "name": "WEEDLE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1693,7 +1612,7 @@
                         "name": "SCYTHER"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SCYTHER_NORMAL"
                     },
                     "shinies": 0
                 },
@@ -1702,16 +1621,7 @@
                         "name": "SHUCKLE"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "SHUCKLE"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SHUCKLE_NORMAL"
                     },
                     "shinies": 0
                 },
@@ -1720,13 +1630,13 @@
                         "name": "SKORUPI"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SKORUPI_NORMAL"
                     },
                     "shinies": 0
                 },
                 {
                     "pokemon": {
-                        "name": "ANORITH"
+                        "name": "DWEBBLE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1737,6 +1647,24 @@
             "team": [
                 {
                     "pokemon": {
+                        "name": "SCYTHER"
+                    },
+                    "form": {
+                        "name": "SCYTHER_NORMAL"
+                    },
+                    "slot": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "SHUCKLE"
+                    },
+                    "form": {
+                        "name": "SHUCKLE_NORMAL"
+                    },
+                    "slot": 0
+                },
+                {
+                    "pokemon": {
                         "name": "DWEBBLE"
                     },
                     "form": {
@@ -1746,28 +1674,19 @@
                 },
                 {
                     "pokemon": {
-                        "name": "SCYTHER"
+                        "name": "WEEDLE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
                     },
-                    "slot": 0
+                    "slot": 1
                 },
                 {
                     "pokemon": {
                         "name": "SHUCKLE"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "SHUCKLE"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SHUCKLE_NORMAL"
                     },
                     "slot": 1
                 },
@@ -1776,22 +1695,13 @@
                         "name": "SKORUPI"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SKORUPI_NORMAL"
                     },
                     "slot": 1
                 },
                 {
                     "pokemon": {
-                        "name": "ANORITH"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 1
-                },
-                {
-                    "pokemon": {
-                        "name": "SCIZOR"
+                        "name": "BEEDRILL"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1809,7 +1719,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "BEEDRILL"
+                        "name": "SCIZOR"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -1834,10 +1744,10 @@
                 },
                 {
                     "pokemon": {
-                        "name": "ARCHEN"
+                        "name": "GLIGAR"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "GLIGAR_NORMAL"
                     },
                     "shinies": 0
                 },
@@ -1846,16 +1756,7 @@
                         "name": "STARLY"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "GLIGAR"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
+                        "name": "STARLY_NORMAL"
                     },
                     "shinies": 0
                 },
@@ -1881,19 +1782,10 @@
                 },
                 {
                     "pokemon": {
-                        "name": "ARCHEN"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 0
-                },
-                {
-                    "pokemon": {
                         "name": "STARLY"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "STARLY_NORMAL"
                     },
                     "slot": 0
                 },
@@ -1902,7 +1794,7 @@
                         "name": "GLIGAR"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "GLIGAR_NORMAL"
                     },
                     "slot": 1
                 },
@@ -1917,15 +1809,6 @@
                 },
                 {
                     "pokemon": {
-                        "name": "DRAGONITE"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 2
-                },
-                {
-                    "pokemon": {
                         "name": "PIDGEOT"
                     },
                     "form": {
@@ -1935,10 +1818,19 @@
                 },
                 {
                     "pokemon": {
-                        "name": "ARCHEOPS"
+                        "name": "DRAGONITE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
+                    },
+                    "slot": 2
+                },
+                {
+                    "pokemon": {
+                        "name": "SKARMORY"
+                    },
+                    "form": {
+                        "name": "SKARMORY_NORMAL"
                     },
                     "slot": 2
                 }
@@ -1954,7 +1846,16 @@
                         "name": "DRATINI"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "DRATINI_NORMAL"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "BAGON"
+                    },
+                    "form": {
+                        "name": "BAGON_NORMAL"
                     },
                     "shinies": 0
                 },
@@ -1974,7 +1875,16 @@
                         "name": "DRATINI"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "DRATINI_NORMAL"
+                    },
+                    "slot": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "BAGON"
+                    },
+                    "form": {
+                        "name": "BAGON_NORMAL"
                     },
                     "slot": 0
                 },
@@ -1989,6 +1899,15 @@
                 },
                 {
                     "pokemon": {
+                        "name": "EXEGGUTOR"
+                    },
+                    "form": {
+                        "name": "EXEGGUTOR_ALOLA"
+                    },
+                    "slot": 1
+                },
+                {
+                    "pokemon": {
                         "name": "DRAGONAIR"
                     },
                     "form": {
@@ -1998,19 +1917,10 @@
                 },
                 {
                     "pokemon": {
-                        "name": "EXEGGUTOR"
-                    },
-                    "form": {
-                        "name": "EXEGGUTOR_ALOLAN"
-                    },
-                    "slot": 1
-                },
-                {
-                    "pokemon": {
                         "name": "GABITE"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "GABITE_NORMAL"
                     },
                     "slot": 1
                 },
@@ -2025,19 +1935,19 @@
                 },
                 {
                     "pokemon": {
-                        "name": "GARCHOMP"
+                        "name": "SALAMENCE"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "SALAMENCE_NORMAL"
                     },
                     "slot": 2
                 },
                 {
                     "pokemon": {
-                        "name": "SALAMENCE"
+                        "name": "GARCHOMP"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "GARCHOMP_NORMAL"
                     },
                     "slot": 2
                 }
@@ -2053,7 +1963,7 @@
                         "name": "TEDDIURSA"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "TEDDIURSA_NORMAL"
                     },
                     "shinies": 0
                 },
@@ -2062,40 +1972,13 @@
                         "name": "STANTLER"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "STANTLER_NORMAL"
                     },
                     "shinies": 0
                 },
                 {
                     "pokemon": {
                         "name": "GLAMEOW"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "RATTATA"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "MEOWTH"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "shinies": 0
-                },
-                {
-                    "pokemon": {
-                        "name": "PURUGLY"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2109,7 +1992,7 @@
                         "name": "TEDDIURSA"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "TEDDIURSA_NORMAL"
                     },
                     "slot": 0
                 },
@@ -2118,7 +2001,7 @@
                         "name": "STANTLER"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "STANTLER_NORMAL"
                     },
                     "slot": 0
                 },
@@ -2145,7 +2028,7 @@
                         "name": "MEOWTH"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MEOWTH_NORMAL"
                     },
                     "slot": 1
                 },
@@ -2172,13 +2055,13 @@
                         "name": "STANTLER"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "STANTLER_NORMAL"
                     },
                     "slot": 2
                 },
                 {
                     "pokemon": {
-                        "name": "EXPLOUD"
+                        "name": "BIBAREL"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2191,11 +2074,39 @@
             "character": {
                 "name": "CHARACTER_GRUNT_MALE"
             },
-            "rewards": [],
+            "rewards": [
+                {
+                    "pokemon": {
+                        "name": "TREECKO"
+                    },
+                    "form": {
+                        "name": "FORM_UNSET"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "TORCHIC"
+                    },
+                    "form": {
+                        "name": "TORCHIC_NORMAL"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "MUDKIP"
+                    },
+                    "form": {
+                        "name": "MUDKIP_NORMAL"
+                    },
+                    "shinies": 0
+                }
+            ],
             "team": [
                 {
                     "pokemon": {
-                        "name": "CHIKORITA"
+                        "name": "TREECKO"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2204,25 +2115,25 @@
                 },
                 {
                     "pokemon": {
-                        "name": "CYNDAQUIL"
+                        "name": "TORCHIC"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "TORCHIC_NORMAL"
                     },
                     "slot": 0
                 },
                 {
                     "pokemon": {
-                        "name": "TOTODILE"
+                        "name": "MUDKIP"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MUDKIP_NORMAL"
                     },
                     "slot": 0
                 },
                 {
                     "pokemon": {
-                        "name": "BAYLEEF"
+                        "name": "GROVYLE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2231,25 +2142,25 @@
                 },
                 {
                     "pokemon": {
-                        "name": "QUILAVA"
+                        "name": "COMBUSKEN"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "COMBUSKEN_NORMAL"
                     },
                     "slot": 1
                 },
                 {
                     "pokemon": {
-                        "name": "CROCONAW"
+                        "name": "MARSHTOMP"
                     },
                     "form": {
-                        "name": "FORM_UNSET"
+                        "name": "MARSHTOMP_NORMAL"
                     },
                     "slot": 1
                 },
                 {
                     "pokemon": {
-                        "name": "MEGANIUM"
+                        "name": "SCEPTILE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2258,7 +2169,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "TYPHLOSION"
+                        "name": "BLAZIKEN"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2267,7 +2178,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "FERALIGATR"
+                        "name": "SWAMPERT"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2303,7 +2214,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "SNORLAX"
+                        "name": "POLIWRATH"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2312,7 +2223,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "POLIWRATH"
+                        "name": "SNORLAX"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2330,7 +2241,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "SNORLAX"
+                        "name": "GYARADOS"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2339,7 +2250,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "GYARADOS"
+                        "name": "SNORLAX"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2369,7 +2280,7 @@
                     "form": {
                         "name": "FORM_UNSET"
                     },
-                    "shinies": 0
+                    "shinies": 1
                 }
             ],
             "team": [
@@ -2384,15 +2295,6 @@
                 },
                 {
                     "pokemon": {
-                        "name": "VICTREEBEL"
-                    },
-                    "form": {
-                        "name": "FORM_UNSET"
-                    },
-                    "slot": 1
-                },
-                {
-                    "pokemon": {
                         "name": "RATICATE"
                     },
                     "form": {
@@ -2402,7 +2304,16 @@
                 },
                 {
                     "pokemon": {
-                        "name": "SNORLAX"
+                        "name": "WEEPINBELL"
+                    },
+                    "form": {
+                        "name": "FORM_UNSET"
+                    },
+                    "slot": 1
+                },
+                {
+                    "pokemon": {
+                        "name": "RATICATE"
                     },
                     "form": {
                         "name": "FORM_UNSET"
@@ -2411,7 +2322,7 @@
                 },
                 {
                     "pokemon": {
-                        "name": "RATICATE"
+                        "name": "SNORLAX"
                     },
                     "form": {
                         "name": "FORM_UNSET"

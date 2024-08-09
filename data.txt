@@ -1,109 +1,131 @@
-Grass 
-1st chikorita, snover encounter
-2nd ferrothorn, bayleaf, lileep
-3rd meganium, vileplum, cacturne 
+Grass Grunt (Male)
 
-Fire 
-1st cyndaquil, darumaka encounter
-2nd houndoom, quilava,
-3rd darmanitan, houndoom, typhlosion
+1st: Chikorita, Snover (Encounter)
+2nd: Ferrothorn, Bayleef, Lileep
+3rd: Meganium, Vileplume, Cacturne
 
-Water  female
-1st omanyte, totodile, tirtouga encounter
-2nd Croconaw, crawdaunt
-3rd wiscash, carracosta, feraligatr 
+Fire Grunt (Female)
 
-Water  male
-1st magikarp encounter 
-2nd magikarp,
-3rd magikarp,gyarados 
+1st: Cyndaquil, Darumaka (Encounter)
+2nd: Houndoom, Quilava
+3rd: Darmanitan, Houndoom, Typhlosion
 
-Electric 
-1st joltik, magnemite, blitzle-encounter 
-2nd voltorb, alolan geodude, electabuzz-encounter 
-3rd galvantula, ampharos, luxray
+Water Grunt (Female)
 
-Ground 
-1st wooper, alolan diglett, drilbur-encounter 
-2nd vibrava, rhyhorn, -encounter
-3rd torterra, whiscash, flygon
+1st: Omanyte, Totodile, Tirtouga (Encounter)
+2nd: Croconaw, Crawdaunt
+3rd: Whiscash, Carracosta, Feraligatr
 
-Ice 
-1st swinub, alolan sandshrew, snover encounter
-2nd alolan ninetails, glalie, froslass
-3rd abomasnow, glalie, froslass 
+Water Grunt (Male)
 
-Rock 
-1st tirtouga, archen encounter
-2nd graveler, lileep, anorith
-3rd archeops, carracosta, golem 
+1st: Magikarp (Encounter)
+2nd: Magikarp
+3rd: Magikarp, Gyarados
 
-Steel 
-1st alolan sandshew, skarmory, ferroseed encounter
-2nd lairon, skarmory, metang
-3rd empoleon, scizor, alolan sandslash 
+Electric Grunt (Female)
 
-Fighting 
-1st machop, timburr, makuhita encounter
-2nd hitmonlee, hitmonchan, gurdurr encounter 
-3rd toxicroak, conkeldurr, infernape
+1st: Joltik, Magnemite, Blitzle (Encounter)
+2nd: Voltorb, Alolan Geodude, Electabuzz (Encounter)
+3rd: Galvantula, Ampharos, Luxray
 
-Psychic 
-1st gohita,  solosis encounter 
-2nd ralts, gohita, wobbufett
-3rd gallade, matagross, reuniclus
+Ground Grunt (Male)
 
-Ghost 
-1st misdrevous, golett, drifloon encounter 
-2nd golett, sableye, dusclops encounter 
-3rd gengar, alolan marawak, froslass
+1st: Wooper, Alolan Diglett, Drilbur (Encounter)
+2nd: Vibrava, Rhyhorn (Encounter)
+3rd: Torterra, Whiscash, Flygon
 
-Dark 
-1st stunky, alolan rattata, houndour encounter
-2nd alolan muk, alolan raticate
-3rd alolan muk, skuntank
+Ice Grunt (Female)
 
-Fairy 
-1st mawile, alolan vulpix, ralts-encounter 
-2nd kirlia, snubbull, granbull-encounter 
-3rd granbull, gardevoir, alolan ninetails
+1st: Swinub, Alolan Sandshrew, Snover (Encounter)
+2nd: Alolan Ninetales, Glalie, Froslass
+3rd: Abomasnow, Glalie, Froslass
 
-Poison 
-1st croagunk, Hisuian sneasel encounter 
-2nd nidorina, nidorino,
-3rd weezing, toxicroak, amoongguss
+Rock Grunt (Male)
 
-Bug 
-1st dwebble , scyther, shuckle encounter
-2nd shuckle, skropi, anorith encounter
-3rd scizor, forretress, beedrill 
+1st: Tirtouga, Archen (Encounter)
+2nd: Graveler, Lileep, Anorith
+3rd: Archeops, Carracosta, Golem
 
-Flying 
-1st pidgey, archen, starley-encounter 
-2nd gligar, staravia -encounter 
-3rd dragonite, pidgeot, archeops
+Steel Grunt (Male)
 
-Dragon 
-1st  dratinii, gible encounter 
-2nd dragonair, alolan Exeggutor , gabite
-3rd Dragonite, garchomp, salamence
+1st: Alolan Sandshrew, Skarmory, Ferroseed (Encounter)
+2nd: Lairon, Skarmory, Metang
+3rd: Empoleon, Scizor, Alolan Sandslash
 
-Normal 
-1st teddiursa, stantler, glameow encounter 
-2nd kanto rattata, kanto meowth, purugly encounter 
-3rd ursaring, statler, exploud 
+Fighting Grunt (Female)
 
-Male grunt
-1st chicorita, cyndaquil, totodile
-2nd bayleaf,  quilava, croconaw
-3rd meganium, typhlosion, feraligatr
+1st: Machop, Timburr, Makuhita (Encounter)
+2nd: Hitmonlee, Hitmonchan, Gurdurr (Encounter)
+3rd: Toxicroak, Conkeldurr, Infernape
 
-Female grunt 
-1st snrolax encounter
-2nd snorlax, poiwrath, gardevour
-3rd snorlax, gyarados, dragonite
+Psychic Grunt (Male)
 
-Female decoy 
-1st Bellsprout  encounter 
-2nd victreebell, kanto raticate
-3rd snrolax, raticate
+1st: Gothita, Solosis (Encounter)
+2nd: Ralts, Gothita, Wobbuffet
+3rd: Gallade, Metagross, Reuniclus
+
+Ghost Grunt (Male)
+
+1st: Misdreavus, Golett, Drifloon (Encounter)
+2nd: Golett, Sableye, Dusclops (Encounter)
+3rd: Gengar, Alolan Marowak, Froslass
+
+Dark Grunt (Female)
+
+1st: Stunky, Alolan Rattata, Houndour (Encounter)
+2nd: Alolan Muk, Alolan Raticate
+3rd: Alolan Muk, Skuntank
+
+Fairy Grunt (Female)
+
+1st: Mawile, Alolan Vulpix, Ralts (Encounter)
+2nd: Kirlia, Snubbull, Granbull (Encounter)
+3rd: Granbull, Gardevoir, Alolan Ninetales
+
+Poison Grunt (Female)
+
+1st: Croagunk, Hisuian Sneasel (Encounter)
+2nd: Nidorina, Nidorino
+3rd: Weezing, Toxicroak, Amoonguss
+
+Bug Grunt (Male)
+
+1st: Dwebble, Scyther, Shuckle (Encounter)
+2nd: Shuckle, Skorupi, Anorith (Encounter)
+3rd: Scizor, Forretress, Beedrill
+
+Flying Grunt (Female)
+
+1st: Pidgey, Archen, Starly (Encounter)
+2nd: Gligar, Staravia (Encounter)
+3rd: Dragonite, Pidgeot, Archeops
+
+Dragon Grunt (Female)
+
+1st: Dratini, Gible (Encounter)
+2nd: Dragonair, Alolan Exeggutor, Gabite
+3rd: Dragonite, Garchomp, Salamence
+
+Normal Grunt (Male)
+
+1st: Teddiursa, Stantler, Glameow (Encounter)
+2nd: Rattata, Meowth, Purugly (Encounter)
+3rd: Ursaring, Stantler, Exploud
+
+Grunt (Male)
+
+1st: Chikorita, Cyndaquil, Totodile
+2nd: Bayleef, Quilava, Croconaw
+3rd: Meganium, Typhlosion, Feraligatr
+
+Grunt (Female)
+
+1st: Snorlax (Encounter)
+2nd: Snorlax, Poliwrath, Gardevoir
+3rd: Snorlax, Gyarados, Dragonite
+
+Decoy Grunt (Female)
+
+1st: Bellsprout (Encounter)
+2nd: Victreebel, Raticate
+3rd: Snorlax, Raticate
