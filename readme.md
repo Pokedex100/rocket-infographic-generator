@@ -1,3 +1,3 @@
 # Pokedex Grunt Chart Generator
 
-![](./sample/infographic.png)
+![](./sample/Rocket.png)

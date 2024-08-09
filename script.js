@@ -1,4 +1,4 @@
-let BASEURL = "https://rocket.malte.im/";
+let BASEURL = "/";
 async function raidsFetch(base, endpoint, method, message) {
   await fetch(base + endpoint, {
     method: method,
@@ -16,7 +16,7 @@ async function raidsFetch(base, endpoint, method, message) {
     .catch((e) => console.log(e));
 }
 
-raidsFetch(BASEURL, "api/characters?hours=24", "GET");
+raidsFetch(BASEURL, "data.json", "GET");
 
 const cloning = (data) => {
   for (let iteration of data) {
@@ -237,3 +237,30 @@ const kanban = () => {
     });
   });
 };
+
+// File System Access API
+// used to store data as JSON
+/*
+async function writetoajsonfile(data) {
+  try {
+    const fileHandle = await window.showSaveFilePicker({
+      suggestedName: "data.json",
+      types: [
+        {
+          description: "JSON file",
+          accept: {
+            "application/json": [".json"],
+          },
+        },
+      ],
+    });
+
+    const writable = await fileHandle.createWritable();
+    await writable.write(JSON.stringify(data, null, 2)); // Write JSON data with indentation
+    await writable.close();
+    console.log("Data saved to file successfully!");
+  } catch (e) {
+    console.error("Failed to save file", e);
+  }
+}
+*/
