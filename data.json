@@ -2191,7 +2191,35 @@
             "character": {
                 "name": "CHARACTER_GRUNT_MALE"
             },
-            "rewards": [],
+            "rewards": [
+                {
+                    "pokemon": {
+                        "name": "CHIKORITA"
+                    },
+                    "form": {
+                        "name": "CHIKORITA"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "CYNDAQUIL"
+                    },
+                    "form": {
+                        "name": "CYNDAQUIL"
+                    },
+                    "shinies": 0
+                },
+                {
+                    "pokemon": {
+                        "name": "TOTODILE"
+                    },
+                    "form": {
+                        "name": "TOTODILE"
+                    },
+                    "shinies": 0
+                }
+            ],
             "team": [
                 {
                     "pokemon": {
