@@ -170,6 +170,7 @@
 
   .encounterable span {
       position: relative;
+      display: ruby;
   }
 
   .male {
